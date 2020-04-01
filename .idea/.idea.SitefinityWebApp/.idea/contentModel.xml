@@ -1,0 +1,1733 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\George\.Rider2019.3\config\consoles\db" t="IncludeRecursive" />
+    <e p="C:\Users\George\.Rider2019.3\config\extensions" t="IncludeRecursive" />
+    <e p="C:\Users\George\.Rider2019.3\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\George\.Rider2019.3\system\resharper-host\local\Transient\ReSharperHost\v193\SolutionCaches\_SitefinityWebApp.112842440.00" t="ExcludeRecursive" />
+    <e p="C:\Users\George\source\repos\git-products\AQuantum" t="IncludeRecursive">
+      <e p=".nuget" t="Include">
+        <e p="NuGet.Config" t="Include" />
+        <e p="nuget.exe" t="Include" />
+        <e p="NuGet.targets" t="Include" />
+      </e>
+      <e p="AdminApp" t="Include">
+        <e p="app.8565241f965a68b33df0.bundle.js" t="Include" />
+        <e p="app.92537380224c51001bf2.bundle.js" t="Include" />
+        <e p="app.e0f09ab69a79f744bbbb.bundle.js" t="Include" />
+        <e p="assets" t="Include">
+          <e p="auth" t="Include">
+            <e p="oidc-client.min.js" t="Include" />
+            <e p="silent-renew.html" t="Include" />
+            <e p="silent-renew.js" t="Include" />
+          </e>
+          <e p="icons" t="Include">
+            <e p="apple-touch-icon-114x114.png" t="Include" />
+            <e p="apple-touch-icon-120x120.png" t="Include" />
+            <e p="apple-touch-icon-144x144.png" t="Include" />
+            <e p="apple-touch-icon-152x152.png" t="Include" />
+            <e p="apple-touch-icon-57x57.png" t="Include" />
+            <e p="apple-touch-icon-60x60.png" t="Include" />
+            <e p="apple-touch-icon-72x72.png" t="Include" />
+            <e p="apple-touch-icon-76x76.png" t="Include" />
+            <e p="favicon-128x128.png" t="Include" />
+            <e p="favicon-16x16.png" t="Include" />
+            <e p="favicon-196x196.png" t="Include" />
+            <e p="favicon-32x32.png" t="Include" />
+            <e p="favicon-96x96.png" t="Include" />
+            <e p="mstile-144x144.png" t="Include" />
+            <e p="mstile-150x150.png" t="Include" />
+            <e p="mstile-310x310.png" t="Include" />
+            <e p="mstile-70x70.png" t="Include" />
+          </e>
+          <e p="images" t="Include">
+            <e p="ProgressSitefinityCms.min.svg" t="Include" />
+            <e p="sfLoadingData.gif" t="Include" />
+          </e>
+          <e p="js" t="Include">
+            <e p="kendo-editor" t="Include">
+              <e p="kendo.custom.min.js" t="Include" />
+              <e p="kendo.custom.min.js.map" t="Include" />
+            </e>
+            <e p="monaco-editor" t="Include">
+              <e p="vs" t="Include">
+                <e p="base" t="Include">
+                  <e p="worker" t="Include">
+                    <e p="workerMain.js" t="Include" />
+                  </e>
+                </e>
+                <e p="basic-languages" t="Include">
+                  <e p="src" t="Include">
+                    <e p="bat.js" t="Include" />
+                    <e p="coffee.js" t="Include" />
+                    <e p="cpp.js" t="Include" />
+                    <e p="csharp.js" t="Include" />
+                    <e p="css.js" t="Include" />
+                    <e p="dockerfile.js" t="Include" />
+                    <e p="fsharp.js" t="Include" />
+                    <e p="go.js" t="Include" />
+                    <e p="handlebars.js" t="Include" />
+                    <e p="html.js" t="Include" />
+                    <e p="ini.js" t="Include" />
+                    <e p="java.js" t="Include" />
+                    <e p="less.js" t="Include" />
+                    <e p="lua.js" t="Include" />
+                    <e p="markdown.js" t="Include" />
+                    <e p="msdax.js" t="Include" />
+                    <e p="objective-c.js" t="Include" />
+                    <e p="php.js" t="Include" />
+                    <e p="postiats.js" t="Include" />
+                    <e p="powershell.js" t="Include" />
+                    <e p="pug.js" t="Include" />
+                    <e p="python.js" t="Include" />
+                    <e p="r.js" t="Include" />
+                    <e p="razor.js" t="Include" />
+                    <e p="ruby.js" t="Include" />
+                    <e p="scss.js" t="Include" />
+                    <e p="solidity.js" t="Include" />
+                    <e p="sql.js" t="Include" />
+                    <e p="swift.js" t="Include" />
+                    <e p="vb.js" t="Include" />
+                    <e p="xml.js" t="Include" />
+                    <e p="yaml.js" t="Include" />
+                  </e>
+                </e>
+                <e p="editor" t="Include">
+                  <e p="contrib" t="Include">
+                    <e p="suggest" t="Include">
+                      <e p="browser" t="Include">
+                        <e p="media" t="Include">
+                          <e p="String_16x.svg" t="Include" />
+                          <e p="String_inverse_16x.svg" t="Include" />
+                        </e>
+                      </e>
+                    </e>
+                  </e>
+                  <e p="editor.main.css" t="Include" />
+                  <e p="editor.main.js" t="Include" />
+                  <e p="editor.main.nls.de.js" t="Include" />
+                  <e p="editor.main.nls.es.js" t="Include" />
+                  <e p="editor.main.nls.fr.js" t="Include" />
+                  <e p="editor.main.nls.hu.js" t="Include" />
+                  <e p="editor.main.nls.it.js" t="Include" />
+                  <e p="editor.main.nls.ja.js" t="Include" />
+                  <e p="editor.main.nls.js" t="Include" />
+                  <e p="editor.main.nls.ko.js" t="Include" />
+                  <e p="editor.main.nls.pt-br.js" t="Include" />
+                  <e p="editor.main.nls.ru.js" t="Include" />
+                  <e p="editor.main.nls.tr.js" t="Include" />
+                  <e p="editor.main.nls.zh-cn.js" t="Include" />
+                  <e p="editor.main.nls.zh-tw.js" t="Include" />
+                  <e p="standalone" t="Include">
+                    <e p="browser" t="Include">
+                      <e p="quickOpen" t="Include">
+                        <e p="symbol-sprite.svg" t="Include" />
+                      </e>
+                    </e>
+                  </e>
+                </e>
+                <e p="language" t="Include">
+                  <e p="css" t="Include">
+                    <e p="cssMode.js" t="Include" />
+                    <e p="cssWorker.js" t="Include" />
+                  </e>
+                  <e p="html" t="Include">
+                    <e p="htmlMode.js" t="Include" />
+                    <e p="htmlWorker.js" t="Include" />
+                  </e>
+                  <e p="json" t="Include">
+                    <e p="jsonMode.js" t="Include" />
+                    <e p="jsonWorker.js" t="Include" />
+                  </e>
+                  <e p="typescript" t="Include">
+                    <e p="lib" t="Include">
+                      <e p="typescriptServices.js" t="Include" />
+                    </e>
+                    <e p="src" t="Include">
+                      <e p="mode.js" t="Include" />
+                      <e p="worker.js" t="Include" />
+                    </e>
+                  </e>
+                </e>
+                <e p="loader.js" t="Include" />
+              </e>
+            </e>
+          </e>
+        </e>
+        <e p="config.json" t="Include" />
+        <e p="DecExtensions" t="Include">
+          <e p="dec-iris.extensions.bundle.js" t="Include" />
+        </e>
+        <e p="elements.05d728b01f16488147e8.bundle.js" t="Include" />
+        <e p="favicon.ico" t="Include" />
+        <e p="index.html" t="Include" />
+        <e p="vendors.24ca53043111c8c72814.bundle.js" t="Include" />
+        <e p="vendors.779189a6d502dff3ba9b.bundle.js" t="Include" />
+      </e>
+      <e p="App_Data" t="Include">
+        <e p="appStatusReport.html" t="Include" />
+        <e p="GeoLocation" t="Include">
+          <e p="GeoLite2-City.mmdb" t="Include" />
+        </e>
+        <e p="RadCaptcha" t="Include">
+          <e p="0.wav" t="Include" />
+          <e p="1.wav" t="Include" />
+          <e p="2.wav" t="Include" />
+          <e p="3.wav" t="Include" />
+          <e p="4.wav" t="Include" />
+          <e p="5.wav" t="Include" />
+          <e p="6.wav" t="Include" />
+          <e p="7.wav" t="Include" />
+          <e p="8.wav" t="Include" />
+          <e p="9.wav" t="Include" />
+          <e p="A.wav" t="Include" />
+          <e p="B.wav" t="Include" />
+          <e p="C.wav" t="Include" />
+          <e p="D.wav" t="Include" />
+          <e p="E.wav" t="Include" />
+          <e p="F.wav" t="Include" />
+          <e p="G.wav" t="Include" />
+          <e p="H.wav" t="Include" />
+          <e p="I.wav" t="Include" />
+          <e p="J.wav" t="Include" />
+          <e p="K.wav" t="Include" />
+          <e p="L.wav" t="Include" />
+          <e p="M.wav" t="Include" />
+          <e p="N.wav" t="Include" />
+          <e p="O.wav" t="Include" />
+          <e p="P.wav" t="Include" />
+          <e p="Q.wav" t="Include" />
+          <e p="R.wav" t="Include" />
+          <e p="S.wav" t="Include" />
+          <e p="T.wav" t="Include" />
+          <e p="U.wav" t="Include" />
+          <e p="V.wav" t="Include" />
+          <e p="W.wav" t="Include" />
+          <e p="X.wav" t="Include" />
+          <e p="Y.wav" t="Include" />
+          <e p="Z.wav" t="Include" />
+        </e>
+        <e p="RadSpell" t="Include">
+          <e p="de-DE.tdf" t="Include" />
+          <e p="en-US.tdf" t="Include" />
+          <e p="fr-FR.tdf" t="Include" />
+        </e>
+        <e p="Sitefinity" t="Include">
+          <e p="Configuration" t="Include">
+            <e p="AnalyticsConfig.config" t="Include" />
+            <e p="AppearanceConfig.config" t="Include" />
+            <e p="AuthenticationConfig.config" t="Include" />
+            <e p="DataConfig.config" t="Include" />
+            <e p="DigitalExperienceCloudConnectorConfig.config" t="Include" />
+            <e p="EcommerceConfig.config" t="Include" />
+            <e p="LiveChatConfig.config" t="Include" />
+            <e p="PagesConfig.config" t="Include" />
+            <e p="ResourcesConfig.config" t="Include" />
+            <e p="ResponsiveDesignConfig.config" t="Include" />
+            <e p="SecurityConfig.config" t="Include" />
+            <e p="SystemConfig.config" t="Include" />
+            <e p="WebSecurityConfig.config" t="Include" />
+            <e p="WebServicesConfig.config" t="Include" />
+          </e>
+          <e p="GlobalResources" t="Include">
+            <e p="DocumentsListResources.resx" t="Include" />
+            <e p="ErrorMessages.resx" t="Include" />
+            <e p="Labels.resx" t="Include" />
+            <e p="LoginStatusResources.resx" t="Include" />
+          </e>
+          <e p="WebsiteTemplates" t="Include">
+            <e p="MailTemplates" t="Include">
+              <e p="Eco.master" t="Include" />
+              <e p="Mail.master" t="Include" />
+              <e p="style.css" t="Include" />
+            </e>
+            <e p="Quantum" t="Include">
+              <e p="App_Master" t="Include">
+                <e p="Quantum.master" t="Include" />
+              </e>
+              <e p="App_Themes" t="Include">
+                <e p="fonts" t="Include">
+                  <e p="glyphicons-halflings-regular.eot" t="Include" />
+                  <e p="glyphicons-halflings-regular.svg" t="Include" />
+                  <e p="glyphicons-halflings-regular.ttf" t="Include" />
+                  <e p="glyphicons-halflings-regular.woff" t="Include" />
+                  <e p="glyphicons-halflings-regular.woff2" t="Include" />
+                </e>
+                <e p="Quantum" t="Include">
+                  <e p="_styles.min.css" t="Include" />
+                  <e p="cssLoadOrder.xml" t="Include" />
+                  <e p="Global" t="Include">
+                    <e p="qShop.css" t="Include" />
+                    <e p="quantum-style.css" t="Include" />
+                    <e p="quantum-style.css.map" t="Include" />
+                    <e p="styles.min.css" t="Include" />
+                  </e>
+                  <e p="images" t="Include">
+                    <e p="arrow_down.png" t="Include" />
+                    <e p="blank.gif" t="Include" />
+                    <e p="classic-loader.gif" t="Include" />
+                    <e p="classic-map.png" t="Include" />
+                    <e p="fancy_title_over.png" t="Include" />
+                    <e p="fancybox-x.png" t="Include" />
+                    <e p="fancybox-y.png" t="Include" />
+                    <e p="fancybox.png" t="Include" />
+                    <e p="forums.png" t="Include" />
+                    <e p="graphic_black.png" t="Include" />
+                    <e p="graphic_black.svg" t="Include" />
+                    <e p="images" t="Include" />
+                    <e p="sf-sprite.png" t="Include" />
+                    <e p="sfArrows.gif" t="Include" />
+                    <e p="sfBigStatusIcons.png" t="Include" />
+                    <e p="sfEcommerce.gif" t="Include" />
+                    <e p="sfFileExtensions.gif" t="Include" />
+                    <e p="sfFileExtensionsSml.gif" t="Include" />
+                    <e p="sfForums.gif" t="Include" />
+                    <e p="sfIcons.gif" t="Include" />
+                    <e p="sfLoadingData.gif" t="Include" />
+                    <e p="sfPublicContent.gif" t="Include" />
+                    <e p="sprite.png" t="Include" />
+                    <e p="steps.png" t="Include" />
+                  </e>
+                  <e p="Reset.css" t="Include" />
+                  <e p="Scripts" t="Include">
+                    <e p="masonry.js" t="Include" />
+                    <e p="quantum.js" t="Include" />
+                  </e>
+                  <e p="Styles" t="Include">
+                    <e p="_nav.widget.css" t="Include" />
+                    <e p="events.widget.css" t="Include" />
+                    <e p="fancybox.css" t="Include" />
+                    <e p="galleria.classic.css" t="Include" />
+                    <e p="icons.css" t="Include" />
+                    <e p="nav.widget.css" t="Include" />
+                  </e>
+                  <e p="styles.min.css" t="Include" />
+                </e>
+              </e>
+            </e>
+            <e p="Widgets" t="Include">
+              <e p="DashboardNotificationsWidget.ascx" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Storage" t="Include">
+          <e p="FileSystem" t="Include" />
+        </e>
+      </e>
+      <e p="App_Start" t="Include">
+        <e p="RazorGeneratorMvcStart.cs" t="Include" />
+      </e>
+      <e p="AzureWebRole.cs" t="Include" />
+      <e p="bin" t="ExcludeRecursive" />
+      <e p="Default.aspx" t="Include" />
+      <e p="Global.asax" t="Include" />
+      <e p="Global.asax.cs" t="Include" />
+      <e p="Mvc" t="Include">
+        <e p="Controllers" t="Include">
+          <e p="readme.txt" t="Include" />
+        </e>
+        <e p="Models" t="Include">
+          <e p="CustomNavigationModel.cs" t="Include" />
+          <e p="CustomNodeViewModel.cs" t="Include" />
+          <e p="readme.txt" t="Include" />
+        </e>
+        <e p="Scripts" t="Include">
+          <e p="SearchBox" t="Include">
+            <e p="Search-box.js" t="Include" />
+          </e>
+        </e>
+        <e p="Views" t="Include">
+          <e p="Address" t="Include">
+            <e p="Detail.Index.cshtml" t="Include" />
+            <e p="Index.cshtml.orig" t="Include" />
+          </e>
+          <e p="AddReview" t="Include">
+            <e p="Detail.Index.cshtml" t="Include" />
+          </e>
+          <e p="BasketPreview" t="Include">
+            <e p="Detail.Index.cshtml" t="Include" />
+          </e>
+          <e p="Card" t="Include">
+            <e p="Card.cshtml" t="Include" />
+            <e p="Card.Hero.cshtml" t="Include" />
+            <e p="Card.Homepage.cshtml" t="Include" />
+            <e p="Card.Simple.cshtml" t="Include" />
+            <e p="Card.Splash.cshtml" t="Include" />
+            <e p="Card.Whitepaper.cshtml" t="Include" />
+          </e>
+          <e p="Cart" t="Include">
+            <e p="Detail.Index.cshtml" t="Include" />
+          </e>
+          <e p="CategoryNavigation" t="Include">
+            <e p="Detail.Index.cshtml" t="Include" />
+          </e>
+          <e p="ConfirmationEmail" t="Include">
+            <e p="Detail.Index.cshtml" t="Include" />
+          </e>
+          <e p="ConfirmationMessage" t="Include">
+            <e p="Detail.Index.cshtml" t="Include" />
+          </e>
+          <e p="FacetsFilter" t="Include">
+            <e p="Detail.Index.cshtml" t="Include" />
+          </e>
+          <e p="LanguageSelector" t="Include">
+            <e p="LanguageSelector.DropDownMenu.cshtml" t="Include" />
+            <e p="LanguageSelector.LanguageLinks.cshtml" t="Include" />
+            <e p="LanguageSelector.QDropDownMenu.cshtml" t="Include" />
+            <e p="LanguageSelector.QLanguageLinks.cshtml" t="Include" />
+          </e>
+          <e p="Layouts" t="Include">
+            <e p="Email.cshtml" t="Include" />
+          </e>
+          <e p="LoginStatus" t="Include">
+            <e p="LoginStatus.LoginButton.cshtml" t="Include" />
+            <e p="LoginStatus.LoginName.cshtml" t="Include" />
+          </e>
+          <e p="MiniBasket" t="Include">
+            <e p="Detail.Index.cshtml" t="Include" />
+          </e>
+          <e p="Navigation" t="Include">
+            <e p="Dropdown.cshtml" t="Include" />
+            <e p="NavigationView.Horizontal.cshtml" t="Include" />
+            <e p="NavigationView.Pills.cshtml" t="Include" />
+            <e p="NavigationView.QHorizontal.cshtml" t="Include" />
+            <e p="NavigationView.QSitemap.cshtml" t="Include" />
+            <e p="NavigationView.Sitemap.cshtml" t="Include" />
+            <e p="NavigationView.Tabs.cshtml" t="Include" />
+            <e p="NavigationView.Vertical.cshtml" t="Include" />
+          </e>
+          <e p="PaymentPicker" t="Include">
+            <e p="Detail.Index.cshtml" t="Include" />
+          </e>
+          <e p="ProductReviews" t="Include">
+            <e p="List.Index.cshtml" t="Include" />
+          </e>
+          <e p="Products" t="Include">
+            <e p="Detail.Index.cshtml" t="Include" />
+            <e p="List.Index.cshtml" t="Include" />
+          </e>
+          <e p="readme.txt" t="Include" />
+          <e p="SearchBox" t="Include">
+            <e p="SearchBox.cshtml" t="Include" />
+            <e p="SearchBox_Q.cshtml" t="Include" />
+          </e>
+          <e p="Shared" t="Include">
+            <e p="readme.txt" t="Include" />
+          </e>
+          <e p="ShippingPicker" t="Include">
+            <e p="Detail.Index.cshtml" t="Include" />
+          </e>
+        </e>
+      </e>
+      <e p="obj" t="ExcludeRecursive">
+        <e p="CodeGen" t="Include">
+          <e p="Mvc" t="Include">
+            <e p="Views" t="Include">
+              <e p="Address" t="Include">
+                <e p="Detail.Index.cshtml.cs" t="Include" />
+              </e>
+              <e p="AddReview" t="Include">
+                <e p="Detail.Index.cshtml.cs" t="Include" />
+              </e>
+              <e p="BasketPreview" t="Include">
+                <e p="Detail.Index.cshtml.cs" t="Include" />
+              </e>
+              <e p="Card" t="Include">
+                <e p="Card.cshtml.cs" t="Include" />
+                <e p="Card.Hero.cshtml.cs" t="Include" />
+                <e p="Card.Homepage.cshtml.cs" t="Include" />
+                <e p="Card.Simple.cshtml.cs" t="Include" />
+                <e p="Card.Splash.cshtml.cs" t="Include" />
+                <e p="Card.Whitepaper.cshtml.cs" t="Include" />
+              </e>
+              <e p="Cart" t="Include">
+                <e p="Detail.Index.cshtml.cs" t="Include" />
+              </e>
+              <e p="CategoryNavigation" t="Include">
+                <e p="Detail.Index.cshtml.cs" t="Include" />
+              </e>
+              <e p="ConfirmationEmail" t="Include">
+                <e p="Detail.Index.cshtml.cs" t="Include" />
+              </e>
+              <e p="ConfirmationMessage" t="Include">
+                <e p="Detail.Index.cshtml.cs" t="Include" />
+              </e>
+              <e p="FacetsFilter" t="Include">
+                <e p="Detail.Index.cshtml.cs" t="Include" />
+              </e>
+              <e p="LanguageSelector" t="Include">
+                <e p="LanguageSelector.DropDownMenu.cshtml.cs" t="Include" />
+                <e p="LanguageSelector.LanguageLinks.cshtml.cs" t="Include" />
+                <e p="LanguageSelector.QDropDownMenu.cshtml.cs" t="Include" />
+                <e p="LanguageSelector.QLanguageLinks.cshtml.cs" t="Include" />
+              </e>
+              <e p="Layouts" t="Include">
+                <e p="Email.cshtml.cs" t="Include" />
+              </e>
+              <e p="LoginStatus" t="Include">
+                <e p="LoginStatus.LoginButton.cshtml.cs" t="Include" />
+                <e p="LoginStatus.LoginName.cshtml.cs" t="Include" />
+              </e>
+              <e p="MiniBasket" t="Include">
+                <e p="Detail.Index.cshtml.cs" t="Include" />
+              </e>
+              <e p="Navigation" t="Include">
+                <e p="Dropdown.cshtml.cs" t="Include" />
+                <e p="NavigationView.Horizontal.cshtml.cs" t="Include" />
+                <e p="NavigationView.Pills.cshtml.cs" t="Include" />
+                <e p="NavigationView.QHorizontal.cshtml.cs" t="Include" />
+                <e p="NavigationView.QSitemap.cshtml.cs" t="Include" />
+                <e p="NavigationView.Sitemap.cshtml.cs" t="Include" />
+                <e p="NavigationView.Tabs.cshtml.cs" t="Include" />
+                <e p="NavigationView.Vertical.cshtml.cs" t="Include" />
+              </e>
+              <e p="PaymentPicker" t="Include">
+                <e p="Detail.Index.cshtml.cs" t="Include" />
+              </e>
+              <e p="ProductReviews" t="Include">
+                <e p="List.Index.cshtml.cs" t="Include" />
+              </e>
+              <e p="Products" t="Include">
+                <e p="Detail.Index.cshtml.cs" t="Include" />
+                <e p="List.Index.cshtml.cs" t="Include" />
+              </e>
+              <e p="SearchBox" t="Include">
+                <e p="SearchBox.cshtml.cs" t="Include" />
+                <e p="SearchBox_Q.cshtml.cs" t="Include" />
+              </e>
+              <e p="ShippingPicker" t="Include">
+                <e p="Detail.Index.cshtml.cs" t="Include" />
+              </e>
+            </e>
+          </e>
+        </e>
+      </e>
+      <e p="OpenAccessNuGet.targets" t="Include" />
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="packages.config" t="Include" />
+      <e p="Properties" t="Include">
+        <e p="AssemblyInfo.cs" t="Include" />
+      </e>
+      <e p="ResourcePackages" t="Include">
+        <e p="Bootstrap" t="Include">
+          <e p="assets" t="Include">
+            <e p="dist" t="Include">
+              <e p="css" t="Include">
+                <e p="main.css" t="Include" />
+                <e p="main.min.css" t="Include" />
+                <e p="quantum-style.css" t="Include" />
+                <e p="quantum-style.css.map" t="Include" />
+                <e p="quantum-style.min.css" t="Include" />
+              </e>
+              <e p="fonts" t="Include">
+                <e p="Bootstrap" t="Include">
+                  <e p="glyphicons-halflings-regular.eot" t="Include" />
+                  <e p="glyphicons-halflings-regular.svg" t="Include" />
+                  <e p="glyphicons-halflings-regular.ttf" t="Include" />
+                  <e p="glyphicons-halflings-regular.woff" t="Include" />
+                  <e p="glyphicons-halflings-regular.woff2" t="Include" />
+                </e>
+                <e p="sf-icon-font.eot" t="Include" />
+                <e p="sf-icon-font.svg" t="Include" />
+                <e p="sf-icon-font.ttf" t="Include" />
+                <e p="sf-icon-font.woff" t="Include" />
+              </e>
+              <e p="images" t="Include">
+                <e p="Arrow.png" t="Include" />
+                <e p="Development_ContactUs.jpg" t="Include" />
+                <e p="Quantum_flag.png" t="Include" />
+                <e p="Quantum_Logo_white.png" t="Include" />
+                <e p="quote-image.png" t="Include" />
+                <e p="sprite.png" t="Include" />
+                <e p="Writetous.jpg" t="Include" />
+              </e>
+              <e p="js" t="Include">
+                <e p="bootstrap.min.js" t="Include" />
+                <e p="fontawesome-all.min.js" t="Include" />
+                <e p="quantum.js" t="Include" />
+              </e>
+            </e>
+            <e p="src" t="Include">
+              <e p="project" t="Include">
+                <e p="sass" t="Include">
+                  <e p="main.scss" t="Include" />
+                </e>
+              </e>
+              <e p="quantum-sass" t="Include">
+                <e p=".sass-cache" t="Include">
+                  <e p="792e882eb69dd036a63c7327f223c0818dad968f" t="Include">
+                    <e p="_config.scssc" t="Include" />
+                    <e p="_events.scssc" t="Include" />
+                    <e p="_homepage.scssc" t="Include" />
+                    <e p="_landing.scssc" t="Include" />
+                    <e p="_layout.scssc" t="Include" />
+                    <e p="_navigation.scssc" t="Include" />
+                    <e p="_news.scssc" t="Include" />
+                    <e p="_others.scssc" t="Include" />
+                    <e p="_services.scssc" t="Include" />
+                    <e p="_showcase.scssc" t="Include" />
+                    <e p="_slick.scssc" t="Include" />
+                    <e p="_slider.scssc" t="Include" />
+                    <e p="style.scssc" t="Include" />
+                  </e>
+                  <e p="90bef3e4723e96319d8dfd2c03b838454280a6d7" t="Include">
+                    <e p="_config.scssc" t="Include" />
+                    <e p="_events.scssc" t="Include" />
+                    <e p="_homepage.scssc" t="Include" />
+                    <e p="_layout.scssc" t="Include" />
+                    <e p="_navigation.scssc" t="Include" />
+                    <e p="_news.scssc" t="Include" />
+                    <e p="_others.scssc" t="Include" />
+                    <e p="_services.scssc" t="Include" />
+                    <e p="_showcase.scssc" t="Include" />
+                    <e p="_slider.scssc" t="Include" />
+                    <e p="_social-share.scssc" t="Include" />
+                    <e p="style.scssc" t="Include" />
+                  </e>
+                  <e p="926b97f030a5ad4afde1e00e126fa2183a4e0f3a" t="Include">
+                    <e p="_config.scssc" t="Include" />
+                    <e p="_events.scssc" t="Include" />
+                    <e p="_homepage.scssc" t="Include" />
+                    <e p="_landing.scssc" t="Include" />
+                    <e p="_layout.scssc" t="Include" />
+                    <e p="_navigation.scssc" t="Include" />
+                    <e p="_news.scssc" t="Include" />
+                    <e p="_others.scssc" t="Include" />
+                    <e p="_services.scssc" t="Include" />
+                    <e p="_showcase.scssc" t="Include" />
+                    <e p="_slick.scssc" t="Include" />
+                    <e p="_slider.scssc" t="Include" />
+                    <e p="_social-share.scssc" t="Include" />
+                    <e p="style.scssc" t="Include" />
+                  </e>
+                  <e p="99a81d3230178f67a7098a71341be932424c7aab" t="Include">
+                    <e p="_config.scssc" t="Include" />
+                    <e p="_events.scssc" t="Include" />
+                    <e p="_homepage.scssc" t="Include" />
+                    <e p="_layout.scssc" t="Include" />
+                    <e p="_navigation.scssc" t="Include" />
+                    <e p="_news.scssc" t="Include" />
+                    <e p="_others.scssc" t="Include" />
+                    <e p="_services.scssc" t="Include" />
+                    <e p="_showcase.scssc" t="Include" />
+                    <e p="_slider.scssc" t="Include" />
+                    <e p="_social-share.scssc" t="Include" />
+                    <e p="style.scssc" t="Include" />
+                  </e>
+                  <e p="9dc877e3d36941baeec49767357f2f6d3e0bb4d3" t="Include">
+                    <e p="_config.scssc" t="Include" />
+                    <e p="_events.scssc" t="Include" />
+                    <e p="_homepage.scssc" t="Include" />
+                    <e p="_landing.scssc" t="Include" />
+                    <e p="_layout.scssc" t="Include" />
+                    <e p="_navigation.scssc" t="Include" />
+                    <e p="_news.scssc" t="Include" />
+                    <e p="_others.scssc" t="Include" />
+                    <e p="_services.scssc" t="Include" />
+                    <e p="_showcase.scssc" t="Include" />
+                    <e p="_slick.scssc" t="Include" />
+                    <e p="_slider.scssc" t="Include" />
+                    <e p="_social-share.scssc" t="Include" />
+                    <e p="style.scssc" t="Include" />
+                  </e>
+                  <e p="af4abb3b69ec4c7f6d89967e779da1ed159fc314" t="Include">
+                    <e p="_config.scssc" t="Include" />
+                    <e p="_events.scssc" t="Include" />
+                    <e p="_homepage.scssc" t="Include" />
+                    <e p="_layout.scssc" t="Include" />
+                    <e p="_navigation.scssc" t="Include" />
+                    <e p="_news.scssc" t="Include" />
+                    <e p="_others.scssc" t="Include" />
+                    <e p="_services.scssc" t="Include" />
+                    <e p="_showcase.scssc" t="Include" />
+                    <e p="_slider.scssc" t="Include" />
+                    <e p="_social-share.scssc" t="Include" />
+                    <e p="style.scssc" t="Include" />
+                  </e>
+                  <e p="b78707484df2de7e7119aa30b7b669bd60987a93" t="Include">
+                    <e p="_config.scssc" t="Include" />
+                    <e p="_events.scssc" t="Include" />
+                    <e p="_grid.scssc" t="Include" />
+                    <e p="_homepage.scssc" t="Include" />
+                    <e p="_landing.scssc" t="Include" />
+                    <e p="_layout.scssc" t="Include" />
+                    <e p="_navigation.scssc" t="Include" />
+                    <e p="_news.scssc" t="Include" />
+                    <e p="_others.scssc" t="Include" />
+                    <e p="_services.scssc" t="Include" />
+                    <e p="_showcase.scssc" t="Include" />
+                    <e p="_slick.scssc" t="Include" />
+                    <e p="_slider.scssc" t="Include" />
+                    <e p="style.scssc" t="Include" />
+                  </e>
+                  <e p="d38babeb54cc832db4403b1d340ffbc50f0f2192" t="Include">
+                    <e p="_config.scssc" t="Include" />
+                    <e p="_events.scssc" t="Include" />
+                    <e p="_homepage.scssc" t="Include" />
+                    <e p="_landing.scssc" t="Include" />
+                    <e p="_layout.scssc" t="Include" />
+                    <e p="_navigation.scssc" t="Include" />
+                    <e p="_news.scssc" t="Include" />
+                    <e p="_others.scssc" t="Include" />
+                    <e p="_services.scssc" t="Include" />
+                    <e p="_showcase.scssc" t="Include" />
+                    <e p="_slick.scssc" t="Include" />
+                    <e p="_slider.scssc" t="Include" />
+                    <e p="_social-share.scssc" t="Include" />
+                    <e p="style.scssc" t="Include" />
+                  </e>
+                  <e p="e8cb2504d3c0c9599d6a43328dd2057a959fe68e" t="Include">
+                    <e p="_config.scssc" t="Include" />
+                    <e p="_events.scssc" t="Include" />
+                    <e p="_homepage.scssc" t="Include" />
+                    <e p="_landing.scssc" t="Include" />
+                    <e p="_layout.scssc" t="Include" />
+                    <e p="_navigation.scssc" t="Include" />
+                    <e p="_news.scssc" t="Include" />
+                    <e p="_others.scssc" t="Include" />
+                    <e p="_services.scssc" t="Include" />
+                    <e p="_showcase.scssc" t="Include" />
+                    <e p="_slick.scssc" t="Include" />
+                    <e p="_slider.scssc" t="Include" />
+                    <e p="_social-share.scssc" t="Include" />
+                    <e p="style.scssc" t="Include" />
+                  </e>
+                </e>
+                <e p="_config.scss" t="Include" />
+                <e p="_events.scss" t="Include" />
+                <e p="_homepage.scss" t="Include" />
+                <e p="_layout.scss" t="Include" />
+                <e p="_navigation.scss" t="Include" />
+                <e p="_news.scss" t="Include" />
+                <e p="_others.scss" t="Include" />
+                <e p="_services.scss" t="Include" />
+                <e p="_showcase.scss" t="Include" />
+                <e p="_slider.scss" t="Include" />
+                <e p="_social-share.scss" t="Include" />
+                <e p="style.css.map" t="Include" />
+                <e p="style.scss" t="Include" />
+              </e>
+              <e p="Sitefinity" t="Include">
+                <e p="icons" t="Include">
+                  <e p="file.svg" t="Include" />
+                  <e p="no-image.svg" t="Include" />
+                </e>
+                <e p="images" t="Include">
+                  <e p="sprite" t="Include">
+                    <e p="blogger.png" t="Include" />
+                    <e p="comment.png" t="Include" />
+                    <e p="delicious.png" t="Include" />
+                    <e p="digg.png" t="Include" />
+                    <e p="email.png" t="Include" />
+                    <e p="facebook.png" t="Include" />
+                    <e p="feed.png" t="Include" />
+                    <e p="google.png" t="Include" />
+                    <e p="linkedin.png" t="Include" />
+                    <e p="mailto.png" t="Include" />
+                    <e p="myspace.png" t="Include" />
+                    <e p="reddit.png" t="Include" />
+                    <e p="remove.png" t="Include" />
+                    <e p="stumble-upon.png" t="Include" />
+                    <e p="tumblr.png" t="Include" />
+                    <e p="twitter.png" t="Include" />
+                  </e>
+                  <e p="sprite.png" t="Include" />
+                </e>
+                <e p="sass" t="Include">
+                  <e p="base" t="Include">
+                    <e p="_pre.scss" t="Include" />
+                    <e p="_rtl.scss" t="Include" />
+                  </e>
+                  <e p="Bootstrap" t="Include">
+                    <e p="_type.scss" t="Include" />
+                  </e>
+                  <e p="components" t="Include">
+                    <e p="icons" t="Include">
+                      <e p="_icons.scss" t="Include" />
+                      <e p="_sf-icon-font.scss" t="Include" />
+                      <e p="feather-icons.css" t="Include" />
+                      <e p="feather-icons.json" t="Include" />
+                      <e p="sf-icon-font.html" t="Include" />
+                    </e>
+                    <e p="loading" t="Include">
+                      <e p="_loading.scss" t="Include" />
+                    </e>
+                    <e p="longtext" t="Include">
+                      <e p="_longtext.scss" t="Include" />
+                    </e>
+                    <e p="sprite" t="Include">
+                      <e p="_sf-sprite.scss" t="Include" />
+                      <e p="sf-sprite.mustache" t="Include" />
+                    </e>
+                  </e>
+                  <e p="settings" t="Include">
+                    <e p="_variables.scss" t="Include" />
+                  </e>
+                  <e p="sitefinity.scss" t="Include" />
+                  <e p="tools" t="Include">
+                    <e p="_bootstrap-mixins.scss" t="Include" />
+                    <e p="_mixins.scss" t="Include" />
+                  </e>
+                  <e p="utilities" t="Include">
+                    <e p="_spacing.scss" t="Include" />
+                    <e p="_text.scss" t="Include" />
+                  </e>
+                  <e p="Widgets" t="Include">
+                    <e p="code" t="Include">
+                      <e p="_sf-code.scss" t="Include" />
+                    </e>
+                    <e p="comments" t="Include">
+                      <e p="_sf-comments.scss" t="Include" />
+                      <e p="_sf-ratings.scss" t="Include" />
+                    </e>
+                    <e p="contentBlock" t="Include">
+                      <e p="_sf-content-block.scss" t="Include" />
+                    </e>
+                    <e p="documentList" t="Include">
+                      <e p="_sf-document-list.scss" t="Include" />
+                    </e>
+                    <e p="event" t="Include">
+                      <e p="_sf-event.scss" t="Include" />
+                    </e>
+                    <e p="feed" t="Include">
+                      <e p="_sf-feed.scss" t="Include" />
+                    </e>
+                    <e p="fileField" t="Include">
+                      <e p="sf-file-field.scss" t="Include" />
+                    </e>
+                    <e p="form" t="Include">
+                      <e p="sf-form.scss" t="Include" />
+                    </e>
+                    <e p="formNavigation" t="Include">
+                      <e p="sf-form-nav.scss" t="Include" />
+                    </e>
+                    <e p="gallery" t="Include">
+                      <e p="_gallery.scss" t="Include" />
+                    </e>
+                    <e p="LanguageSelector" t="Include">
+                      <e p="_sf-language-selector.scss" t="Include" />
+                    </e>
+                    <e p="list" t="Include">
+                      <e p="_sf-list.scss" t="Include" />
+                    </e>
+                    <e p="login" t="Include">
+                      <e p="_sf-login.scss" t="Include" />
+                    </e>
+                    <e p="media" t="Include">
+                      <e p="_sf-media.scss" t="Include" />
+                    </e>
+                    <e p="Navigation" t="Include">
+                      <e p="_navbar.scss" t="Include" />
+                      <e p="_sitemap.scss" t="Include" />
+                      <e p="_stacked.scss" t="Include" />
+                    </e>
+                    <e p="profile" t="Include">
+                      <e p="_sf-profile.scss" t="Include" />
+                    </e>
+                    <e p="SearchBox" t="Include">
+                      <e p="_sf-search-box.scss" t="Include" />
+                    </e>
+                    <e p="searchResults" t="Include">
+                      <e p="_sf-search-results.scss" t="Include" />
+                    </e>
+                    <e p="siteSelector" t="Include">
+                      <e p="_sf-site-selector.scss" t="Include" />
+                    </e>
+                    <e p="taxonomies" t="Include">
+                      <e p="_sf-tags.scss" t="Include" />
+                    </e>
+                  </e>
+                </e>
+              </e>
+            </e>
+          </e>
+          <e p="client-components" t="Include">
+            <e p="fields" t="Include">
+              <e p="html-field" t="Include">
+                <e p="sf-html-field.sf-cshtml" t="Include" />
+              </e>
+            </e>
+          </e>
+          <e p="csslint.json" t="Include" />
+          <e p="GridSystem" t="Include">
+            <e p="Templates" t="Include">
+              <e p="container.html" t="Include" />
+              <e p="grid-12-blue.html" t="Include" />
+              <e p="grid-12-green.html" t="Include" />
+              <e p="grid-12.html" t="Include" />
+              <e p="grid-2+3+2+3+2.html" t="Include" />
+              <e p="grid-3+3+3+3.html" t="Include" />
+              <e p="grid-3+6+3.html" t="Include" />
+              <e p="grid-3+9.html" t="Include" />
+              <e p="grid-4+4+4.html" t="Include" />
+              <e p="grid-4+8.html" t="Include" />
+              <e p="grid-6+6.html" t="Include" />
+              <e p="grid-8+4.html" t="Include" />
+              <e p="grid-9+3.html" t="Include" />
+            </e>
+          </e>
+          <e p="gruntfile.js" t="Include" />
+          <e p="jsfiles.json" t="Include" />
+          <e p="Mvc" t="Include">
+            <e p="Scripts" t="Include">
+              <e p="Navigation" t="Include">
+                <e p="pills.js" t="Include" />
+              </e>
+            </e>
+            <e p="Views" t="Include">
+              <e p="AccountActivation" t="Include">
+                <e p="AccountActivation.AccountActivation.cshtml" t="Include" />
+              </e>
+              <e p="Blog" t="Include">
+                <e p="Detail.DetailPage.cshtml" t="Include" />
+                <e p="List.BlogList.cshtml" t="Include" />
+              </e>
+              <e p="BlogPost" t="Include">
+                <e p="Detail.DetailPage.cshtml" t="Include" />
+                <e p="Detail.DetailPageQ.cshtml" t="Include" />
+                <e p="List.BlogPostList.cshtml" t="Include" />
+                <e p="List.BlogPostListQ .cshtml" t="Include" />
+              </e>
+              <e p="Breadcrumb" t="Include">
+                <e p="Breadcrumb.cshtml" t="Include" />
+              </e>
+              <e p="Captcha" t="Include">
+                <e p="Write.Default.cshtml" t="Include" />
+              </e>
+              <e p="Card" t="Include">
+                <e p="Card.cshtml" t="Include" />
+                <e p="Card.Hero.cshtml" t="Include" />
+                <e p="Card.Homepage.cshtml" t="Include" />
+                <e p="Card.Simple.cshtml" t="Include" />
+                <e p="Card.Splash.cshtml" t="Include" />
+                <e p="Card.Whitepaper.cshtml" t="Include" />
+              </e>
+              <e p="ChangePassword" t="Include">
+                <e p="ChangePassword.ChangePassword.cshtml" t="Include" />
+              </e>
+              <e p="CheckboxesField" t="Include">
+                <e p="Read.Default.cshtml" t="Include" />
+                <e p="Write.Default.cshtml" t="Include" />
+                <e p="Write.Default_Inline.cshtml" t="Include" />
+              </e>
+              <e p="comments" t="Include">
+                <e p="Comments.Default.cshtml" t="Include" />
+                <e p="CommentsCount.Default.cshtml" t="Include" />
+              </e>
+              <e p="contentBlock" t="Include">
+                <e p="default.cshtml" t="Include" />
+              </e>
+              <e p="Document" t="Include">
+                <e p="DocumentLink.cshtml" t="Include" />
+              </e>
+              <e p="DocumentsList" t="Include">
+                <e p="Detail.DocumentDetails.cshtml" t="Include" />
+                <e p="List.DocumentsDownload.cshtml" t="Include" />
+                <e p="List.DocumentsList.cshtml" t="Include" />
+                <e p="List.DocumentsTable.cshtml" t="Include" />
+              </e>
+              <e p="DropdownListField" t="Include">
+                <e p="Read.Default.cshtml" t="Include" />
+                <e p="Write.Default.cshtml" t="Include" />
+              </e>
+              <e p="EmbedCode" t="Include">
+                <e p="Index.cshtml" t="Include" />
+              </e>
+              <e p="event" t="Include">
+                <e p="Detail.EventDetails.cshtml" t="Include" />
+                <e p="List.EventsList.cshtml" t="Include" />
+              </e>
+              <e p="EventScheduler" t="Include">
+                <e p="Detail.EventDetails.cshtml" t="Include" />
+                <e p="List.Calendar.cshtml" t="Include" />
+              </e>
+              <e p="feed" t="Include">
+                <e p="Feed.FeedLink.cshtml" t="Include" />
+              </e>
+              <e p="fileField" t="Include">
+                <e p="Write.Default.cshtml" t="Include" />
+              </e>
+              <e p="FlatTaxonomy" t="Include">
+                <e p="FlatTaxonomy.CloudList.cshtml" t="Include" />
+                <e p="FlatTaxonomy.SimpleList.cshtml" t="Include" />
+                <e p="FlatTaxonomy.TagCloud.cshtml" t="Include" />
+              </e>
+              <e p="form" t="Include">
+                <e p="Form.SubmitResultView.cshtml" t="Include" />
+                <e p="Index.cshtml" t="Include" />
+              </e>
+              <e p="HiddenField" t="Include">
+                <e p="Read.Default.cshtml" t="Include" />
+                <e p="Write.Default.cshtml" t="Include" />
+              </e>
+              <e p="HierarchicalTaxonomy" t="Include">
+                <e p="HierarchicalTaxonomy.CategoriesList.cshtml" t="Include" />
+                <e p="HierarchicalTaxonomy.CategoriesListQuantum.cshtml" t="Include" />
+              </e>
+              <e p="Image" t="Include">
+                <e p="Image.cshtml" t="Include" />
+              </e>
+              <e p="ImageGallery" t="Include">
+                <e p="Detail.DetailPage.cshtml" t="Include" />
+                <e p="List.ImageGallery.cshtml" t="Include" />
+                <e p="List.OverlayGallery.cshtml" t="Include" />
+                <e p="List.SimpleList.cshtml" t="Include" />
+                <e p="List.ThumbnailStrip.cshtml" t="Include" />
+              </e>
+              <e p="JavaScript" t="Include">
+                <e p="Index.cshtml" t="Include" />
+              </e>
+              <e p="LanguageSelector" t="Include">
+                <e p="LanguageSelector.DropDownMenu.cshtml" t="Include" />
+                <e p="LanguageSelector.LanguageLinks.cshtml" t="Include" />
+                <e p="LanguageSelector.QDropDownMenu.cshtml" t="Include" />
+              </e>
+              <e p="Layouts" t="Include">
+                <e p="default.cshtml" t="Include" />
+                <e p="quantum.cshtml" t="Include" />
+              </e>
+              <e p="Lists" t="Include">
+                <e p="Detail.DetailPage.cshtml" t="Include" />
+                <e p="List.AnchorList.cshtml" t="Include" />
+                <e p="List.ExpandableList.cshtml" t="Include" />
+                <e p="List.ExpandedList.cshtml" t="Include" />
+                <e p="List.PagesList.cshtml" t="Include" />
+                <e p="List.QExpandableList.cshtml" t="Include" />
+                <e p="List.QHighlights.cshtml" t="Include" />
+                <e p="List.SimpleList.cshtml" t="Include" />
+              </e>
+              <e p="Location" t="Include">
+                <e p="Detail.LocationQuantum.cshtml" t="Include" />
+                <e p="List.LocationOffices.cshtml" t="Include" />
+                <e p="List.Map.cshtml" t="Include" />
+              </e>
+              <e p="LoginForm" t="Include">
+                <e p="ForgotPassword.ForgottenPassword.cshtml" t="Include" />
+                <e p="LoginForm.LoginForm.cshtml" t="Include" />
+                <e p="ResetPassword.ResetPassword.cshtml" t="Include" />
+              </e>
+              <e p="LoginStatus" t="Include">
+                <e p="LoginStatus.LoginButton.cshtml" t="Include" />
+                <e p="LoginStatus.LoginName.cshtml" t="Include" />
+                <e p="LoginStatus.LoginNameQuantum.cshtml" t="Include" />
+              </e>
+              <e p="MultipleChoiceField" t="Include">
+                <e p="Read.Default.cshtml" t="Include" />
+                <e p="Write.Default.cshtml" t="Include" />
+                <e p="Write.Default_Inline.cshtml" t="Include" />
+              </e>
+              <e p="Navigation" t="Include">
+                <e p="Dropdown.cshtml" t="Include" />
+                <e p="NavigationView.Horizontal.cshtml" t="Include" />
+                <e p="NavigationView.Pills.cshtml" t="Include" />
+                <e p="NavigationView.QHorizontal.cshtml" t="Include" />
+                <e p="NavigationView.Sitemap.cshtml" t="Include" />
+                <e p="NavigationView.SitemapQuantum.cshtml" t="Include" />
+                <e p="NavigationView.Tabs.cshtml" t="Include" />
+                <e p="NavigationView.Vertical.cshtml" t="Include" />
+              </e>
+              <e p="NavigationField" t="Include">
+                <e p="Read.Default.cshtml" t="Include" />
+                <e p="Read.ProgressBar.cshtml" t="Include" />
+              </e>
+              <e p="News" t="Include">
+                <e p="Detail.DetailPage.cshtml" t="Include" />
+                <e p="Detail.DetailPageQ.cshtml" t="Include" />
+                <e p="List.NewsList.cshtml" t="Include" />
+                <e p="List.NewsListFull.cshtml" t="Include" />
+                <e p="List.NewsListPage.cshtml" t="Include" />
+                <e p="List.NewsListRecent.cshtml" t="Include" />
+              </e>
+              <e p="PageBreak" t="Include">
+                <e p="Read.Default.cshtml" t="Include" />
+              </e>
+              <e p="ParagraphTextField" t="Include">
+                <e p="Read.Default.cshtml" t="Include" />
+                <e p="Write.Default.cshtml" t="Include" />
+              </e>
+              <e p="profile" t="Include">
+                <e p="ConfirmPassword.ProfileEdit.cshtml" t="Include" />
+                <e p="Edit.ProfileEdit.cshtml" t="Include" />
+                <e p="Read.ProfilePreview.cshtml" t="Include" />
+              </e>
+              <e p="Registration" t="Include">
+                <e p="Registration.RegistrationForm.cshtml" t="Include" />
+              </e>
+              <e p="Reviews" t="Include">
+                <e p="Reviews.Default.cshtml" t="Include" />
+                <e p="ReviewsCount.Default.cshtml" t="Include" />
+              </e>
+              <e p="SearchBox" t="Include">
+                <e p="SearchBox.cshtml" t="Include" />
+                <e p="SearchBox_Q.cshtml" t="Include" />
+              </e>
+              <e p="searchResults" t="Include">
+                <e p="SearchResults.cshtml" t="Include" />
+              </e>
+              <e p="Showcase" t="Include">
+                <e p="Detail.QShowcase.cshtml" t="Include" />
+                <e p="List.QShowcase.cshtml" t="Include" />
+                <e p="List.QSingleShowcase.cshtml" t="Include" />
+              </e>
+              <e p="siteSelector" t="Include">
+                <e p="SiteSelector.DropDownMenu.cshtml" t="Include" />
+                <e p="SiteSelector.SiteLinks.cshtml" t="Include" />
+              </e>
+              <e p="Slide" t="Include">
+                <e p="List.Banner.cshtml" t="Include" />
+                <e p="List.SingleSlide.cshtml" t="Include" />
+              </e>
+              <e p="StyleSheet" t="Include">
+                <e p="Index.cshtml" t="Include" />
+              </e>
+              <e p="SubmitButton" t="Include">
+                <e p="Write.Default.cshtml" t="Include" />
+              </e>
+              <e p="SubscribeForm" t="Include">
+                <e p="SubscribeForm.SubscribeForm.cshtml" t="Include" />
+                <e p="SubscribeForm.SubscribeFormQuantum.cshtml" t="Include" />
+              </e>
+              <e p="Testimonial" t="Include">
+                <e p="Detail.QTestimonial.cshtml" t="Include" />
+                <e p="List.SingleTestimonial.cshtml" t="Include" />
+                <e p="List.TestimonialSlides.cshtml" t="Include" />
+              </e>
+              <e p="TextField" t="Include">
+                <e p="Read.Default.cshtml" t="Include" />
+                <e p="Write.Default.cshtml" t="Include" />
+              </e>
+              <e p="UnsubscribeForm" t="Include">
+                <e p="UnsubscribeFormByEmailAddress.UnsubscribeForm.cshtml" t="Include" />
+                <e p="UnsubscribeFormByLink.UnsubscribeMessage.cshtml" t="Include" />
+              </e>
+              <e p="UsersList" t="Include">
+                <e p="Detail.UserDetails.cshtml" t="Include" />
+                <e p="List.UsersList.cshtml" t="Include" />
+              </e>
+              <e p="Video" t="Include">
+                <e p="Video.Banner.cshtml" t="Include" />
+                <e p="Video.Default.cshtml" t="Include" />
+              </e>
+              <e p="VideoGallery" t="Include">
+                <e p="Detail.Default.cshtml" t="Include" />
+                <e p="List.OverlayGallery.cshtml" t="Include" />
+                <e p="List.VideoGallery.cshtml" t="Include" />
+              </e>
+            </e>
+          </e>
+          <e p="package.json" t="Include" />
+          <e p="razorgenerator.directives" t="Include" />
+          <e p="README.md" t="Include" />
+        </e>
+        <e p="Bootstrap4" t="Include">
+          <e p="assets" t="Include">
+            <e p="dist" t="Include">
+              <e p="css" t="Include">
+                <e p="main.css" t="Include" />
+                <e p="main.min.css" t="Include" />
+              </e>
+              <e p="js" t="Include">
+                <e p="bootstrap.min.js" t="Include" />
+                <e p="popper.min.js" t="Include" />
+              </e>
+              <e p="sprites" t="Include">
+                <e p="brands.svg" t="Include" />
+                <e p="regular.svg" t="Include" />
+                <e p="solid.svg" t="Include" />
+              </e>
+            </e>
+            <e p="src" t="Include">
+              <e p="project" t="Include">
+                <e p="sass" t="Include">
+                  <e p="AdminApp" t="Include">
+                    <e p="editor.scss" t="Include" />
+                  </e>
+                  <e p="main.scss" t="Include" />
+                </e>
+              </e>
+              <e p="Sitefinity" t="Include">
+                <e p="sass" t="Include">
+                  <e p="base" t="Include">
+                    <e p="_list.scss" t="Include" />
+                    <e p="_media.scss" t="Include" />
+                    <e p="_pre.scss" t="Include" />
+                    <e p="_rtl.scss" t="Include" />
+                  </e>
+                  <e p="components" t="Include">
+                    <e p="icons" t="Include">
+                      <e p="_icons.scss" t="Include" />
+                    </e>
+                    <e p="loading" t="Include">
+                      <e p="_loading.scss" t="Include" />
+                    </e>
+                  </e>
+                  <e p="settings" t="Include">
+                    <e p="_variables.scss" t="Include" />
+                  </e>
+                  <e p="sitefinity.scss" t="Include" />
+                  <e p="tools" t="Include">
+                    <e p="_bootstrap-mixins.scss" t="Include" />
+                    <e p="_mixins.scss" t="Include" />
+                    <e p="_placeholder-selectors.scss" t="Include" />
+                  </e>
+                  <e p="utilities" t="Include">
+                    <e p="_spacing.scss" t="Include" />
+                    <e p="_text.scss" t="Include" />
+                  </e>
+                  <e p="Widgets" t="Include">
+                    <e p="code" t="Include">
+                      <e p="_sf-code.scss" t="Include" />
+                    </e>
+                    <e p="comments" t="Include">
+                      <e p="_sf-comments.scss" t="Include" />
+                      <e p="_sf-ratings.scss" t="Include" />
+                    </e>
+                    <e p="contentBlock" t="Include">
+                      <e p="_sf-content-block.scss" t="Include" />
+                    </e>
+                    <e p="documentList" t="Include">
+                      <e p="_sf-document-list.scss" t="Include" />
+                    </e>
+                    <e p="event" t="Include">
+                      <e p="_sf-event.scss" t="Include" />
+                    </e>
+                    <e p="feed" t="Include">
+                      <e p="_sf-feed.scss" t="Include" />
+                    </e>
+                    <e p="fileField" t="Include">
+                      <e p="_sf-file-field.scss" t="Include" />
+                    </e>
+                    <e p="form" t="Include">
+                      <e p="_sf-form.scss" t="Include" />
+                    </e>
+                    <e p="formNavigation" t="Include">
+                      <e p="_sf-form-nav.scss" t="Include" />
+                    </e>
+                    <e p="gallery" t="Include">
+                      <e p="_sf-gallery.scss" t="Include" />
+                    </e>
+                    <e p="LanguageSelector" t="Include">
+                      <e p="_sf-language-selector.scss" t="Include" />
+                    </e>
+                    <e p="list" t="Include">
+                      <e p="_sf-list.scss" t="Include" />
+                    </e>
+                    <e p="login" t="Include">
+                      <e p="_sf-login.scss" t="Include" />
+                    </e>
+                    <e p="media" t="Include">
+                      <e p="_sf-media.scss" t="Include" />
+                    </e>
+                    <e p="Navigation" t="Include">
+                      <e p="_sf-navbar.scss" t="Include" />
+                      <e p="_sf-sitemap.scss" t="Include" />
+                      <e p="_sf-stacked.scss" t="Include" />
+                    </e>
+                    <e p="pagination" t="Include">
+                      <e p="_sf-pagination.scss" t="Include" />
+                    </e>
+                    <e p="profile" t="Include">
+                      <e p="_sf-profile.scss" t="Include" />
+                    </e>
+                    <e p="SearchBox" t="Include">
+                      <e p="_sf-search-box.scss" t="Include" />
+                    </e>
+                    <e p="searchResults" t="Include">
+                      <e p="_sf-search-results.scss" t="Include" />
+                    </e>
+                    <e p="siteSelector" t="Include">
+                      <e p="_sf-site-selector.scss" t="Include" />
+                    </e>
+                    <e p="taxonomies" t="Include">
+                      <e p="_sf-tags.scss" t="Include" />
+                    </e>
+                  </e>
+                </e>
+              </e>
+              <e p="vendors" t="Include">
+                <e p="_all.scss" t="Include" />
+                <e p="_bootstrap.scss" t="Include" />
+                <e p="_magnific-popup.scss" t="Include" />
+              </e>
+            </e>
+          </e>
+          <e p="client-components" t="Include">
+            <e p="fields" t="Include">
+              <e p="html-field" t="Include">
+                <e p="sf-html-field.sf-cshtml" t="Include" />
+              </e>
+            </e>
+          </e>
+          <e p="GridSystem" t="Include">
+            <e p="Templates" t="Include">
+              <e p="container.html" t="Include" />
+              <e p="grid-12.html" t="Include" />
+              <e p="grid-2+3+2+3+2.html" t="Include" />
+              <e p="grid-3+3+3+3.html" t="Include" />
+              <e p="grid-3+6+3.html" t="Include" />
+              <e p="grid-3+9.html" t="Include" />
+              <e p="grid-4+4+4.html" t="Include" />
+              <e p="grid-4+8.html" t="Include" />
+              <e p="grid-6+6.html" t="Include" />
+              <e p="grid-8+4.html" t="Include" />
+              <e p="grid-9+3.html" t="Include" />
+            </e>
+          </e>
+          <e p="Mvc" t="Include">
+            <e p="Scripts" t="Include">
+              <e p="Navigation" t="Include">
+                <e p="pills.js" t="Include" />
+              </e>
+            </e>
+            <e p="Views" t="Include">
+              <e p="AccountActivation" t="Include">
+                <e p="AccountActivation.AccountActivation.cshtml" t="Include" />
+              </e>
+              <e p="Address" t="Include">
+                <e p="Detail.Index.cshtml" t="Include" />
+              </e>
+              <e p="AddReview" t="Include">
+                <e p="Detail.Index.cshtml" t="Include" />
+              </e>
+              <e p="BasketPreview" t="Include">
+                <e p="Detail.Index.cshtml" t="Include" />
+              </e>
+              <e p="Blog" t="Include">
+                <e p="Detail.DetailPage.cshtml" t="Include" />
+                <e p="List.BlogList.cshtml" t="Include" />
+              </e>
+              <e p="BlogPost" t="Include">
+                <e p="Detail.DetailPage.cshtml" t="Include" />
+                <e p="List.BlogPostList.cshtml" t="Include" />
+              </e>
+              <e p="Breadcrumb" t="Include">
+                <e p="Breadcrumb.cshtml" t="Include" />
+              </e>
+              <e p="Captcha" t="Include">
+                <e p="Write.Default.cshtml" t="Include" />
+              </e>
+              <e p="Card" t="Include">
+                <e p="Card.cshtml" t="Include" />
+                <e p="Card.Hero.cshtml" t="Include" />
+                <e p="Card.Simple.cshtml" t="Include" />
+              </e>
+              <e p="Cart" t="Include">
+                <e p="Detail.Index.cshtml" t="Include" />
+              </e>
+              <e p="CategoryNavigation" t="Include">
+                <e p="Detail.Index.cshtml" t="Include" />
+              </e>
+              <e p="ChangePassword" t="Include">
+                <e p="ChangePassword.ChangePassword.cshtml" t="Include" />
+              </e>
+              <e p="CheckboxesField" t="Include">
+                <e p="Read.Default.cshtml" t="Include" />
+                <e p="Write.Default.cshtml" t="Include" />
+                <e p="Write.Default_Inline.cshtml" t="Include" />
+              </e>
+              <e p="comments" t="Include">
+                <e p="Comments.Default.cshtml" t="Include" />
+                <e p="CommentsCount.Default.cshtml" t="Include" />
+              </e>
+              <e p="ConfirmationEmail" t="Include">
+                <e p="Detail.Index.cshtml" t="Include" />
+              </e>
+              <e p="ConfirmationMessage" t="Include">
+                <e p="Detail.Index.cshtml" t="Include" />
+              </e>
+              <e p="contentBlock" t="Include">
+                <e p="default.cshtml" t="Include" />
+              </e>
+              <e p="ContentPager" t="Include">
+                <e p="Pager.cshtml" t="Include" />
+              </e>
+              <e p="Document" t="Include">
+                <e p="DocumentLink.cshtml" t="Include" />
+              </e>
+              <e p="DocumentsList" t="Include">
+                <e p="Detail.DocumentDetails.cshtml" t="Include" />
+                <e p="List.DocumentsList.cshtml" t="Include" />
+                <e p="List.DocumentsTable.cshtml" t="Include" />
+              </e>
+              <e p="DropdownListField" t="Include">
+                <e p="Read.Default.cshtml" t="Include" />
+                <e p="Write.Default.cshtml" t="Include" />
+              </e>
+              <e p="EmailTextField" t="Include">
+                <e p="Read.Default.cshtml" t="Include" />
+                <e p="Write.Default.cshtml" t="Include" />
+              </e>
+              <e p="EmbedCode" t="Include">
+                <e p="Index.cshtml" t="Include" />
+              </e>
+              <e p="event" t="Include">
+                <e p="Detail.EventDetails.cshtml" t="Include" />
+                <e p="List.EventsList.cshtml" t="Include" />
+              </e>
+              <e p="EventScheduler" t="Include">
+                <e p="Detail.EventDetails.cshtml" t="Include" />
+                <e p="List.Calendar.cshtml" t="Include" />
+              </e>
+              <e p="FacetsFilter" t="Include">
+                <e p="Detail.Index.cshtml" t="Include" />
+              </e>
+              <e p="feed" t="Include">
+                <e p="Feed.FeedLink.cshtml" t="Include" />
+              </e>
+              <e p="fileField" t="Include">
+                <e p="Write.Default.cshtml" t="Include" />
+              </e>
+              <e p="FlatTaxonomy" t="Include">
+                <e p="FlatTaxonomy.CloudList.cshtml" t="Include" />
+                <e p="FlatTaxonomy.SimpleList.cshtml" t="Include" />
+                <e p="FlatTaxonomy.TagCloud.cshtml" t="Include" />
+              </e>
+              <e p="form" t="Include">
+                <e p="Form.SubmitResultView.cshtml" t="Include" />
+                <e p="Index.cshtml" t="Include" />
+              </e>
+              <e p="HiddenField" t="Include">
+                <e p="Read.Default.cshtml" t="Include" />
+                <e p="Write.Default.cshtml" t="Include" />
+              </e>
+              <e p="HierarchicalTaxonomy" t="Include">
+                <e p="HierarchicalTaxonomy.CategoriesList.cshtml" t="Include" />
+              </e>
+              <e p="Image" t="Include">
+                <e p="Image.cshtml" t="Include" />
+              </e>
+              <e p="ImageGallery" t="Include">
+                <e p="Detail.DetailPage.cshtml" t="Include" />
+                <e p="List.ImageGallery.cshtml" t="Include" />
+                <e p="List.OverlayGallery.cshtml" t="Include" />
+                <e p="List.SimpleList.cshtml" t="Include" />
+                <e p="List.ThumbnailStrip.cshtml" t="Include" />
+              </e>
+              <e p="JavaScript" t="Include">
+                <e p="Index.cshtml" t="Include" />
+              </e>
+              <e p="LanguageSelector" t="Include">
+                <e p="LanguageSelector.DropDownMenu.cshtml" t="Include" />
+                <e p="LanguageSelector.LanguageLinks.cshtml" t="Include" />
+              </e>
+              <e p="Layouts" t="Include">
+                <e p="default.cshtml" t="Include" />
+              </e>
+              <e p="Lists" t="Include">
+                <e p="Detail.DetailPage.cshtml" t="Include" />
+                <e p="List.AnchorList.cshtml" t="Include" />
+                <e p="List.ExpandableList.cshtml" t="Include" />
+                <e p="List.ExpandedList.cshtml" t="Include" />
+                <e p="List.PagesList.cshtml" t="Include" />
+                <e p="List.SimpleList.cshtml" t="Include" />
+              </e>
+              <e p="LoginForm" t="Include">
+                <e p="ForgotPassword.ForgottenPassword.cshtml" t="Include" />
+                <e p="LoginForm.LoginForm.cshtml" t="Include" />
+                <e p="ResetPassword.ResetPassword.cshtml" t="Include" />
+              </e>
+              <e p="LoginStatus" t="Include">
+                <e p="LoginStatus.LoginButton.cshtml" t="Include" />
+                <e p="LoginStatus.LoginName.cshtml" t="Include" />
+              </e>
+              <e p="MiniBasket" t="Include">
+                <e p="Detail.Index.cshtml" t="Include" />
+              </e>
+              <e p="MultipleChoiceField" t="Include">
+                <e p="Read.Default.cshtml" t="Include" />
+                <e p="Write.Default.cshtml" t="Include" />
+                <e p="Write.Default_Inline.cshtml" t="Include" />
+              </e>
+              <e p="Navigation" t="Include">
+                <e p="Dropdown.cshtml" t="Include" />
+                <e p="NavigationView.Horizontal.cshtml" t="Include" />
+                <e p="NavigationView.Pills.cshtml" t="Include" />
+                <e p="NavigationView.Sitemap.cshtml" t="Include" />
+                <e p="NavigationView.Tabs.cshtml" t="Include" />
+                <e p="NavigationView.Vertical.cshtml" t="Include" />
+              </e>
+              <e p="NavigationField" t="Include">
+                <e p="Read.Default.cshtml" t="Include" />
+                <e p="Read.ProgressBar.cshtml" t="Include" />
+              </e>
+              <e p="News" t="Include">
+                <e p="Detail.DetailPage.cshtml" t="Include" />
+                <e p="List.NewsList.cshtml" t="Include" />
+              </e>
+              <e p="PageBreak" t="Include">
+                <e p="Read.Default.cshtml" t="Include" />
+              </e>
+              <e p="ParagraphTextField" t="Include">
+                <e p="Read.Default.cshtml" t="Include" />
+                <e p="Write.Default.cshtml" t="Include" />
+              </e>
+              <e p="PaymentPicker" t="Include">
+                <e p="Detail.Index.cshtml" t="Include" />
+              </e>
+              <e p="ProductReviews" t="Include">
+                <e p="List.Index.cshtml" t="Include" />
+              </e>
+              <e p="Products" t="Include">
+                <e p="Detail.Index.cshtml" t="Include" />
+                <e p="List.Index.cshtml" t="Include" />
+              </e>
+              <e p="profile" t="Include">
+                <e p="ConfirmPassword.ProfileEdit.cshtml" t="Include" />
+                <e p="Edit.ProfileEdit.cshtml" t="Include" />
+                <e p="Read.ProfilePreview.cshtml" t="Include" />
+              </e>
+              <e p="Registration" t="Include">
+                <e p="Registration.RegistrationForm.cshtml" t="Include" />
+              </e>
+              <e p="Reviews" t="Include">
+                <e p="Reviews.Default.cshtml" t="Include" />
+                <e p="ReviewsCount.Default.cshtml" t="Include" />
+              </e>
+              <e p="SearchBox" t="Include">
+                <e p="SearchBox.cshtml" t="Include" />
+              </e>
+              <e p="searchResults" t="Include">
+                <e p="InputValidationError.cshtml" t="Include" />
+                <e p="SearchResults.cshtml" t="Include" />
+              </e>
+              <e p="SectionHeader" t="Include">
+                <e p="Read.Default.cshtml" t="Include" />
+              </e>
+              <e p="Shared" t="Include">
+                <e p="_Warning.cshtml" t="Include" />
+                <e p="readme.txt" t="Include" />
+              </e>
+              <e p="ShippingPicker" t="Include">
+                <e p="Detail.Index.cshtml" t="Include" />
+              </e>
+              <e p="siteSelector" t="Include">
+                <e p="SiteSelector.DropDownMenu.cshtml" t="Include" />
+                <e p="SiteSelector.SiteLinks.cshtml" t="Include" />
+              </e>
+              <e p="StyleSheet" t="Include">
+                <e p="Index.cshtml" t="Include" />
+              </e>
+              <e p="SubmitButton" t="Include">
+                <e p="Write.Default.cshtml" t="Include" />
+              </e>
+              <e p="SubscribeForm" t="Include">
+                <e p="SubscribeForm.SubscribeForm.cshtml" t="Include" />
+              </e>
+              <e p="TextField" t="Include">
+                <e p="Read.Default.cshtml" t="Include" />
+                <e p="Write.Default.cshtml" t="Include" />
+              </e>
+              <e p="UnsubscribeForm" t="Include">
+                <e p="UnsubscribeFormByEmailAddress.UnsubscribeForm.cshtml" t="Include" />
+                <e p="UnsubscribeFormByLink.UnsubscribeMessage.cshtml" t="Include" />
+              </e>
+              <e p="UsersList" t="Include">
+                <e p="Detail.UserDetails.cshtml" t="Include" />
+                <e p="List.UsersList.cshtml" t="Include" />
+              </e>
+              <e p="Video" t="Include">
+                <e p="Video.Default.cshtml" t="Include" />
+              </e>
+              <e p="VideoGallery" t="Include">
+                <e p="Detail.Default.cshtml" t="Include" />
+                <e p="List.OverlayGallery.cshtml" t="Include" />
+                <e p="List.VideoGallery.cshtml" t="Include" />
+              </e>
+            </e>
+          </e>
+          <e p="package-lock.json" t="Include" />
+          <e p="package.json" t="Include" />
+          <e p="razorgenerator.directives" t="Include" />
+          <e p="README.md" t="Include" />
+        </e>
+      </e>
+      <e p="SampleTemplate.cshtml" t="Include" />
+      <e p="Sitefinity" t="Include">
+        <e p="Default.aspx" t="Include" />
+        <e p="Public" t="Include">
+          <e p="Services" t="Include">
+            <e p="Ecommerce" t="Include">
+              <e p="Order" t="Include">
+                <e p="CartOrder.svc" t="Include" />
+              </e>
+            </e>
+            <e p="LoadBalancing" t="Include">
+              <e p="AzureSystemWebService.svc" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Services" t="Include">
+          <e p="Analytics" t="Include">
+            <e p="AnalyticsPermissionsService.svc" t="Include" />
+            <e p="DashboardData.svc" t="Include" />
+            <e p="GoogleAnalytics.svc" t="Include" />
+            <e p="MapDataService.svc" t="Include" />
+          </e>
+          <e p="BlobStorage" t="Include">
+            <e p="BlobStorage.svc" t="Include" />
+          </e>
+          <e p="Catalog" t="Include">
+            <e p="ProductAttribute.svc" t="Include" />
+            <e p="ProductAttributeValue.svc" t="Include" />
+          </e>
+          <e p="Common" t="Include">
+            <e p="Comments.svc" t="Include" />
+            <e p="Content.svc" t="Include" />
+            <e p="GenericItemsService.svc" t="Include" />
+            <e p="QueryBuilderService.svc" t="Include" />
+          </e>
+          <e p="Configuration" t="Include">
+            <e p="ConfigPolicies.svc" t="Include" />
+            <e p="ConfigPolicyHandlers.svc" t="Include" />
+            <e p="ConfigSectionItems.svc" t="Include" />
+            <e p="ConfigSections.svc" t="Include" />
+            <e p="LocalizationCultures.svc" t="Include" />
+          </e>
+          <e p="Content" t="Include">
+            <e p="AlbumService.svc" t="Include" />
+            <e p="BlogPostService.svc" t="Include" />
+            <e p="BlogService.svc" t="Include" />
+            <e p="CommentsGenericService.svc" t="Include" />
+            <e p="ContentBlockPage.svc" t="Include" />
+            <e p="ContentItemService.svc" t="Include" />
+            <e p="ContentService.svc" t="Include" />
+            <e p="DocumentLibraryService.svc" t="Include" />
+            <e p="DocumentService.svc" t="Include" />
+            <e p="EventService.svc" t="Include" />
+            <e p="Generic.svc" t="Include" />
+            <e p="ImageService.svc" t="Include" />
+            <e p="NewsItemService.svc" t="Include" />
+            <e p="VideoLibraryService.svc" t="Include" />
+            <e p="VideoService.svc" t="Include" />
+          </e>
+          <e p="ControlTemplates" t="Include">
+            <e p="ControlTemplateService.svc" t="Include" />
+          </e>
+          <e p="DynamicModules" t="Include">
+            <e p="BackendFormService.svc" t="Include" />
+            <e p="BackendGridStructureService.svc" t="Include" />
+            <e p="ContentTypeService.svc" t="Include" />
+            <e p="Data.svc" t="Include" />
+          </e>
+          <e p="Ecommerce" t="Include">
+            <e p="Catalog" t="Include">
+              <e p="ProductAttribute.svc" t="Include" />
+              <e p="ProductAttributeValue.svc" t="Include" />
+              <e p="ProductService.svc" t="Include" />
+              <e p="ProductTypeService.svc" t="Include" />
+              <e p="ProductVariation.svc" t="Include" />
+              <e p="ProductVariationDetail.svc" t="Include" />
+              <e p="ProductVariationsModuleService.svc" t="Include" />
+            </e>
+            <e p="CurrencyData.svc" t="Include" />
+            <e p="Order" t="Include">
+              <e p="Cart.svc" t="Include" />
+              <e p="CartAddress.svc" t="Include" />
+              <e p="CartDetail.svc" t="Include" />
+              <e p="CartDiscount.svc" t="Include" />
+              <e p="Customer.svc" t="Include" />
+              <e p="CustomerAddress.svc" t="Include" />
+              <e p="Discount.svc" t="Include" />
+              <e p="Order.svc" t="Include" />
+              <e p="OrderDiscount.svc" t="Include" />
+              <e p="OrderDownload.svc" t="Include" />
+              <e p="PaymentMethod.svc" t="Include" />
+              <e p="Tax.svc" t="Include" />
+              <e p="TaxClass.svc" t="Include" />
+            </e>
+            <e p="Reports" t="Include">
+              <e p="OrdersReports.svc" t="Include" />
+              <e p="ProductsReports.svc" t="Include" />
+            </e>
+            <e p="Shipping" t="Include">
+              <e p="ShippingMethod.svc" t="Include" />
+            </e>
+          </e>
+          <e p="Folders" t="Include">
+            <e p="FoldersService.svc" t="Include" />
+          </e>
+          <e p="Forms" t="Include">
+            <e p="FormsService.svc" t="Include" />
+          </e>
+          <e p="Lists" t="Include">
+            <e p="ListItemService.svc" t="Include" />
+            <e p="ListService.svc" t="Include" />
+            <e p="ListsModuleService.svc" t="Include" />
+          </e>
+          <e p="LoadBalancing" t="Include">
+            <e p="SystemWebService.svc" t="Include" />
+          </e>
+          <e p="Localization" t="Include">
+            <e p="AllCulturesResource.svc" t="Include" />
+            <e p="DualLocalizationResources.svc" t="Include" />
+            <e p="LocalizationClasses.svc" t="Include" />
+            <e p="LocalizationResources.svc" t="Include" />
+          </e>
+          <e p="MetaData" t="Include">
+            <e p="MetaData.svc" t="Include" />
+            <e p="ModuleEditor.svc" t="Include" />
+          </e>
+          <e p="Newsletters" t="Include">
+            <e p="ABCampaign.svc" t="Include" />
+            <e p="Campaign.svc" t="Include" />
+            <e p="DynamicList.svc" t="Include" />
+            <e p="IssueReport.svc" t="Include" />
+            <e p="MailingList.svc" t="Include" />
+            <e p="MessageTemplate.svc" t="Include" />
+            <e p="Settings.svc" t="Include" />
+            <e p="Subscriber.svc" t="Include" />
+            <e p="SystemStats.svc" t="Include" />
+          </e>
+          <e p="Pages" t="Include">
+            <e p="ControlPropertyService.svc" t="Include" />
+            <e p="PagesService.svc" t="Include" />
+            <e p="PageTemplatesService.svc" t="Include" />
+            <e p="ZoneEditorService.svc" t="Include" />
+          </e>
+          <e p="Publishing" t="Include">
+            <e p="PublishingService.svc" t="Include" />
+          </e>
+          <e p="ResponsiveDesign" t="Include">
+            <e p="MediaQuery.svc" t="Include" />
+          </e>
+          <e p="Security" t="Include">
+            <e p="MembershipSettings.svc" t="Include" />
+            <e p="Permissions.svc" t="Include" />
+            <e p="Roles.svc" t="Include" />
+            <e p="Users.svc" t="Include" />
+          </e>
+          <e p="SitefinityProject.svc" t="Include" />
+          <e p="SiteSync" t="Include">
+            <e p="SiteSyncService.svc" t="Include" />
+          </e>
+          <e p="taxonomies" t="Include">
+            <e p="FlatTaxon.svc" t="Include" />
+            <e p="HierarchicalTaxon.svc" t="Include" />
+            <e p="MarkedItems.svc" t="Include" />
+            <e p="Taxonomy.svc" t="Include" />
+          </e>
+          <e p="Twitter" t="Include">
+            <e p="TwitterCredentialsService.svc" t="Include" />
+            <e p="TwitterUrlShortConfigService.svc" t="Include" />
+          </e>
+          <e p="UserProfiles" t="Include">
+            <e p="UserProfileTypesService.svc" t="Include" />
+          </e>
+          <e p="Versioning" t="Include">
+            <e p="HistoryService.svc" t="Include" />
+          </e>
+          <e p="Workflow" t="Include">
+            <e p="WorkflowDefinitionService.svc" t="Include" />
+            <e p="WorkflowService.svc" t="Include" />
+          </e>
+        </e>
+      </e>
+      <e p="SitefinityWebApp.csproj" t="IncludeRecursive" />
+      <e p="SitefinityWebApp.sln" t="IncludeFlat" />
+      <e p="Tasks" t="Include">
+        <e p="FeatherActionInvokerCustom.cs" t="Include" />
+      </e>
+      <e p="web.config" t="Include" />
+    </e>
+  </component>
+</project>
