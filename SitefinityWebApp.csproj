@@ -949,7 +949,7 @@
       <HintPath>packages\Ucommerce.Sitefinity.8.4.1.19353\lib\UCommerce.Sitefinity.Installer.dll</HintPath>
     </Reference>
     <Reference Include="UCommerce.Sitefinity.UI, Version=0.8.0.0, Culture=neutral, processorArchitecture=MSIL">
-      <HintPath>packages\Ucommerce.Sitefinity.UI.2.0.0.20084\lib\UCommerce.Sitefinity.UI.dll</HintPath>
+      <HintPath>packages\Ucommerce.Sitefinity.UI.2.0.0.20092\lib\UCommerce.Sitefinity.UI.dll</HintPath>
     </Reference>
     <Reference Include="UCommerce.SystemHttp, Version=8.4.1.19353, Culture=neutral, processorArchitecture=MSIL">
       <HintPath>packages\uCommerce.Core.8.4.1.19353\lib\net45\UCommerce.SystemHttp.dll</HintPath>
@@ -1901,6 +1901,7 @@
     <Content Include="ResourcePackages\Bootstrap4\MVC\Views\ShippingPicker\Detail.Index.cshtml" />
     <Content Include="ResourcePackages\Bootstrap4\MVC\Views\Products\List.Index.cshtml" />
     <Content Include="ResourcePackages\Bootstrap4\MVC\Views\Products\Detail.Index.cshtml" />
+    <Content Include="ResourcePackages\Bootstrap4\MVC\Views\ProductReviews\List.Index.cshtml" />
     <Content Include="ResourcePackages\Bootstrap4\MVC\Views\PaymentPicker\Detail.Index.cshtml" />
     <Content Include="ResourcePackages\Bootstrap4\MVC\Views\MiniBasket\Detail.Index.cshtml" />
     <Content Include="ResourcePackages\Bootstrap4\MVC\Views\FacetsFilter\Detail.Index.cshtml" />
@@ -1909,10 +1910,8 @@
     <Content Include="ResourcePackages\Bootstrap4\MVC\Views\CategoryNavigation\Detail.Index.cshtml" />
     <Content Include="ResourcePackages\Bootstrap4\MVC\Views\Cart\Detail.Index.cshtml" />
     <Content Include="ResourcePackages\Bootstrap4\MVC\Views\BasketPreview\Detail.Index.cshtml" />
-    <Content Include="ResourcePackages\Bootstrap4\MVC\Views\Address\Detail.Index.cshtml" />
-    <Content Include="ResourcePackages\Bootstrap4\MVC\Views\Shared\_Warning.cshtml" />
-    <Content Include="ResourcePackages\Bootstrap4\MVC\Views\ProductReviews\List.Index.cshtml" />
     <Content Include="ResourcePackages\Bootstrap4\MVC\Views\AddReview\Detail.Index.cshtml" />
+    <Content Include="ResourcePackages\Bootstrap4\MVC\Views\Address\Detail.Index.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <EmbeddedResource Include="App_Data\Sitefinity\GlobalResources\DocumentsListResources.resx" />
