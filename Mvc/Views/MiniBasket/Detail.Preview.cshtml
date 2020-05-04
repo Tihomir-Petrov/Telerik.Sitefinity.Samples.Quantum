@@ -26,9 +26,9 @@
         <div>
             <div class="sfcartSummaryWrp!">
                 <a href="#" onclick="return false;" class="sflnkToggleCart!">
-                    <span class="sflnkToggleCartLbl!">Shopping cart</span>
+                    <span class="sflnkToggleCartLbl!">@Html.Resource("ShoppingCart", "UcommerceResources")</span>
 
-                    <strong class="sfcartSummaryItemsCount">{{ model.NumberOfItems }} &nbsp;products&nbsp;/&nbsp;{{ model.Total }}</strong>
+                    <strong class="sfcartSummaryItemsCount">{{ model.NumberOfItems }} &nbsp;@Html.Resource("Products", "UcommerceResources")&nbsp;/&nbsp;{{ model.Total }}</strong>
                 </a>
             </div>
         </div>
@@ -46,7 +46,7 @@
 
                         </td>
                         <td class="sfItmPriceCol">
-                            <span><span>{{prod.Quantity}} items</span> ×</span>
+                            <span><span>{{prod.Quantity}} @Html.Resource("Items", "UcommerceResources")</span> ×</span>
                             <div>
                                 <div class="sfTxtContent"></div>
 
@@ -60,10 +60,10 @@
             </table>
 
             <div class="sfPriceTotal">
-                {{ model.NumberOfItems }}&nbsp;products&nbsp;Subtotal: <strong class="sfPrice">{{ model.Total }}</strong>
+                {{ model.NumberOfItems }}&nbsp;@Html.Resource("Products", "UcommerceResources")&nbsp;@Html.Resource("SubTotal", "UcommerceResources"): <strong class="sfPrice">{{ model.Total }}</strong>
             </div>
             <div class="sfcartSummaryBtnsWrp sfClearfix">
-                <a class="sflnkToCart" :href="model.CartPageUrl">View shopping cart</a> <a class="sfCheckoutBtn" :href="model.CheckoutPageUrl">Checkout</a>
+                <a class="sflnkToCart" :href="model.CartPageUrl">@Html.Resource("ViewShoppingCart", "UcommerceResources")</a> <a class="sfCheckoutBtn" :href="model.CheckoutPageUrl">@Html.Resource("Checkout", "UcommerceResources")</a>
             </div>
         </div>
     </div>

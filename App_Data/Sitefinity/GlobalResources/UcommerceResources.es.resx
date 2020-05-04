@@ -1,0 +1,560 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="UCommerceResource">
+    <value>Recursos de UCommerce</value>
+    <comment>UCommerce Resources</comment>
+    <lastModified>2020-05-04T02:38:19</lastModified>
+  </data>
+  <data name="WriteReview">
+    <value>Escribe una reseña</value>
+    <comment>Write a review</comment>
+    <lastModified>2020-05-04T02:38:19</lastModified>
+  </data>
+  <data name="Discount">
+    <value>Descuento</value>
+    <comment>Discount</comment>
+    <lastModified>2020-05-04T02:38:19</lastModified>
+  </data>
+  <data name="Discounts">
+    <value>Descuentos</value>
+    <comment>Discounts</comment>
+    <lastModified>2020-05-04T02:38:19</lastModified>
+  </data>
+  <data name="Availability">
+    <value>Disponibilidad</value>
+    <comment>Availability</comment>
+    <lastModified>2020-05-04T02:38:19</lastModified>
+  </data>
+  <data name="InStock">
+    <value>En stock</value>
+    <comment>In Stock</comment>
+    <lastModified>2020-05-04T02:38:19</lastModified>
+  </data>
+  <data name="OutOfStock">
+    <value>Agotado</value>
+    <comment>Out of Stock</comment>
+    <lastModified>2020-05-04T02:38:19</lastModified>
+  </data>
+  <data name="PleaseSelect">
+    <value>Por favor seleccione ...</value>
+    <comment>Please select...</comment>
+    <lastModified>2020-05-04T02:38:19</lastModified>
+  </data>
+  <data name="AddToWishList">
+    <value>Anadir a la lista de deseos</value>
+    <comment>Add To Wish List</comment>
+    <lastModified>2020-05-04T02:41:36</lastModified>
+  </data>
+  <data name="AddToCart">
+    <value>Anadir al carrito</value>
+    <comment>Add To Cart</comment>
+    <lastModified>2020-05-04T02:41:44</lastModified>
+  </data>
+  <data name="Products">
+    <value>productos</value>
+    <comment>products</comment>
+    <lastModified>2020-05-04T02:38:19</lastModified>
+  </data>
+  <data name="ProductQuantity">
+    <value>Cantidad de producto</value>
+    <comment>Product Quantity</comment>
+    <lastModified>2020-05-04T02:38:19</lastModified>
+  </data>
+  <data name="SpecifyQuantity">
+    <value>Al agregar producto a un carrito, debe especificar la cantidad</value>
+    <comment>When adding product to a cart you must specify the quantity</comment>
+    <lastModified>2020-05-04T02:38:19</lastModified>
+  </data>
+  <data name="QuantityValidation">
+    <value>La cantidad debe ser mayor que 0 y menor que 9,999.</value>
+    <comment>The quantity must be greater than 0 and less than 9,999.</comment>
+    <lastModified>2020-05-04T02:38:19</lastModified>
+  </data>
+  <data name="Quantity">
+    <value>Cantidad</value>
+    <comment>Quantity</comment>
+    <lastModified>2020-05-04T02:38:19</lastModified>
+  </data>
+  <data name="Price">
+    <value>Precio</value>
+    <comment>Price</comment>
+    <lastModified>2020-05-04T02:38:19</lastModified>
+  </data>
+  <data name="VAT">
+    <value>IVA</value>
+    <comment>VAT</comment>
+    <lastModified>2020-05-04T02:38:19</lastModified>
+  </data>
+  <data name="Update">
+    <value>Actualizar</value>
+    <comment>Update</comment>
+    <lastModified>2020-05-04T02:38:19</lastModified>
+  </data>
+  <data name="Remove">
+    <value>Eliminar</value>
+    <comment>Remove</comment>
+    <lastModified>2020-05-04T02:38:19</lastModified>
+  </data>
+  <data name="SubTotal">
+    <value>Subtotal</value>
+    <comment>Sub Total</comment>
+    <lastModified>2020-05-04T02:38:19</lastModified>
+  </data>
+  <data name="OrderTotal">
+    <value>Total del pedido</value>
+    <comment>Order Total</comment>
+    <lastModified>2020-05-04T02:38:19</lastModified>
+  </data>
+  <data name="Continue">
+    <value>Seguir</value>
+    <comment>Continue</comment>
+    <lastModified>2020-05-04T02:38:19</lastModified>
+  </data>
+  <data name="Description">
+    <value>Descripción</value>
+    <comment>Description</comment>
+    <lastModified>2020-05-04T02:38:19</lastModified>
+  </data>
+  <data name="Add">
+    <value>Añadir</value>
+    <comment>Add</comment>
+    <lastModified>2020-05-04T02:38:19</lastModified>
+  </data>
+  <data name="Apply">
+    <value>Aplicar</value>
+    <comment>Apply</comment>
+    <lastModified>2020-05-04T02:38:19</lastModified>
+  </data>
+  <data name="HasAVoucher">
+    <value>TIENE UN CÓDIGO DE CUPÓN?</value>
+    <comment>HAVE A COUPON CODE?</comment>
+    <lastModified>2020-05-04T02:45:40</lastModified>
+  </data>
+  <data name="DiscountCode">
+    <value>Código de descuento</value>
+    <comment>Discount code</comment>
+    <lastModified>2020-05-04T02:38:19</lastModified>
+  </data>
+  <data name="BillingAddress">
+    <value>Dirección de Envio</value>
+    <comment>Billing Address</comment>
+    <lastModified>2020-05-04T02:38:19</lastModified>
+  </data>
+  <data name="ShippingAddress">
+    <value>Dirección de Envío</value>
+    <comment>Shipping Address</comment>
+    <lastModified>2020-05-04T02:38:19</lastModified>
+  </data>
+  <data name="FirstName">
+    <value>Nombre de pila</value>
+    <comment>First Name</comment>
+    <lastModified>2020-05-04T02:38:19</lastModified>
+  </data>
+  <data name="LastName">
+    <value>Apellido</value>
+    <comment>Last Name</comment>
+    <lastModified>2020-05-04T02:38:19</lastModified>
+  </data>
+  <data name="Email">
+    <value>Correo electrónico</value>
+    <comment>E-mail</comment>
+    <lastModified>2020-05-04T02:38:19</lastModified>
+  </data>
+  <data name="Attention">
+    <value>Atención</value>
+    <comment>Attention</comment>
+    <lastModified>2020-05-04T02:38:19</lastModified>
+  </data>
+  <data name="MobilePhone">
+    <value>Teléfono móvil</value>
+    <comment>Mobile Phone</comment>
+    <lastModified>2020-05-04T02:38:19</lastModified>
+  </data>
+  <data name="Phone">
+    <value>Teléfono</value>
+    <comment>Phone</comment>
+    <lastModified>2020-05-04T02:38:19</lastModified>
+  </data>
+  <data name="Street">
+    <value>Calle</value>
+    <comment>Street</comment>
+    <lastModified>2020-05-04T02:38:19</lastModified>
+  </data>
+  <data name="Street2">
+    <value>Calle # 2</value>
+    <comment>Street 2</comment>
+    <lastModified>2020-05-04T02:38:19</lastModified>
+  </data>
+  <data name="PostalCode">
+    <value>Código postal</value>
+    <comment>Postal Code</comment>
+    <lastModified>2020-05-04T02:38:19</lastModified>
+  </data>
+  <data name="City">
+    <value>Ciudad</value>
+    <comment>City</comment>
+    <lastModified>2020-05-04T02:38:19</lastModified>
+  </data>
+  <data name="Country">
+    <value>País</value>
+    <comment>Country</comment>
+    <lastModified>2020-05-04T02:38:19</lastModified>
+  </data>
+  <data name="Company">
+    <value>Empresa</value>
+    <comment>Company</comment>
+    <lastModified>2020-05-04T02:38:19</lastModified>
+  </data>
+  <data name="DifferentShippingAddress">
+    <value>Use una dirección diferente para el envío</value>
+    <comment>Use a different address for shipping</comment>
+    <lastModified>2020-05-04T02:38:19</lastModified>
+  </data>
+  <data name="ItemNo">
+    <value>Artículo No.</value>
+    <comment>Item no.</comment>
+    <lastModified>2020-05-04T02:38:19</lastModified>
+  </data>
+  <data name="OrderDiscounts">
+    <value>Descuentos de pedido</value>
+    <comment>Order Discounts</comment>
+    <lastModified>2020-05-04T02:38:19</lastModified>
+  </data>
+  <data name="Payment">
+    <value>Pago</value>
+    <comment>Payment</comment>
+    <lastModified>2020-05-04T02:38:19</lastModified>
+  </data>
+  <data name="CompleteOrder">
+    <value>Orden completa</value>
+    <comment>Complete Order</comment>
+    <lastModified>2020-05-04T02:38:19</lastModified>
+  </data>
+  <data name="EmptyBasket">
+    <value>tu canasta esta vacía</value>
+    <comment>Your basket is empty</comment>
+    <lastModified>2020-05-04T02:38:19</lastModified>
+  </data>
+  <data name="PaymentMethod">
+    <value>Método de pago</value>
+    <comment>Payment method</comment>
+    <lastModified>2020-05-04T02:38:19</lastModified>
+  </data>
+  <data name="ShippingMethod">
+    <value>Método de envío</value>
+    <comment>Shipping Method</comment>
+    <lastModified>2020-05-04T02:38:19</lastModified>
+  </data>
+  <data name="ContinueToNextStep">
+    <value>Continuar al siguiente paso</value>
+    <comment>Continue to next step</comment>
+    <lastModified>2020-05-04T02:38:19</lastModified>
+  </data>
+  <data name="FirstNameValidation">
+    <value>Se requiere el primer nombre</value>
+    <comment>First name is required</comment>
+    <lastModified>2020-05-04T02:38:19</lastModified>
+  </data>
+  <data name="LastNameValidation">
+    <value>Apellido es obligatorio</value>
+    <comment>Last name is required</comment>
+    <lastModified>2020-05-04T02:38:19</lastModified>
+  </data>
+  <data name="EmailAddressValidation">
+    <value>correo electronico es requerido</value>
+    <comment>Email is required</comment>
+    <lastModified>2020-05-04T02:38:19</lastModified>
+  </data>
+  <data name="Line1Validation">
+    <value>Se requiere línea de dirección 1</value>
+    <comment>Address line 1 is required</comment>
+    <lastModified>2020-05-04T02:38:19</lastModified>
+  </data>
+  <data name="PostalCodeValidation">
+    <value>Se requiere código postal</value>
+    <comment>Postal code is required</comment>
+    <lastModified>2020-05-04T02:38:19</lastModified>
+  </data>
+  <data name="CityValidation">
+    <value>Se requiere ciudad</value>
+    <comment>City is required</comment>
+    <lastModified>2020-05-04T02:38:19</lastModified>
+  </data>
+  <data name="BackButton">
+    <value>Atras</value>
+    <comment>Back Button</comment>
+    <lastModified>2020-05-04T02:43:55</lastModified>
+  </data>
+  <data name="ThankYou">
+    <value>Gracias por tu pedido</value>
+    <comment>Thank you for the order</comment>
+    <lastModified>2020-05-04T02:38:19</lastModified>
+  </data>
+  <data name="ContactUs">
+    <value>Contáctenos</value>
+    <comment>Contact Us</comment>
+    <lastModified>2020-05-04T02:38:19</lastModified>
+  </data>
+  <data name="Quantum">
+    <value>Cuántico</value>
+    <comment>Quantum</comment>
+    <lastModified>2020-05-04T02:38:19</lastModified>
+  </data>
+  <data name="Copyright">
+    <value>Copyright © 2002-2019 Quantum. Todos los derechos reservados.</value>
+    <comment>Copyright Message</comment>
+    <lastModified>2020-05-04T02:38:19</lastModified>
+  </data>
+  <data name="Shipping">
+    <value>Envío</value>
+    <comment>Shipping</comment>
+    <lastModified>2020-05-04T02:38:19</lastModified>
+  </data>
+  <data name="AddToBasket">
+    <value>Agregado a la cesta</value>
+    <comment>Added to basket</comment>
+    <lastModified>2020-05-04T02:38:19</lastModified>
+  </data>
+  <data name="NotAddToBasket">
+    <value>No agregado a la cesta</value>
+    <comment>Not added to basket</comment>
+    <lastModified>2020-05-04T02:38:19</lastModified>
+  </data>
+  <data name="ShoppingCart">
+    <value>Carrito de compras</value>
+    <comment>Shopping Cart</comment>
+    <lastModified>2020-05-04T02:38:19</lastModified>
+  </data>
+  <data name="ContinueShopping">
+    <value>Seguir comprando</value>
+    <comment>Continue shopping</comment>
+    <lastModified>2020-05-04T02:38:19</lastModified>
+  </data>
+  <data name="ReturnToStore">
+    <value>Regrese a nuestra tienda y agregue algunos artículos</value>
+    <comment>Return to Store</comment>
+    <lastModified>2020-05-04T02:38:19</lastModified>
+  </data>
+  <data name="YourCartIsEmpty">
+    <value>Tu carrito esta vacío. Por favor</value>
+    <comment>Your Cart is Empty</comment>
+    <lastModified>2020-05-04T02:38:19</lastModified>
+  </data>
+  <data name="Review">
+    <value>revisión</value>
+    <comment>Review</comment>
+    <lastModified>2020-05-04T02:38:19</lastModified>
+  </data>
+  <data name="Reviews">
+    <value>Comentarios</value>
+    <comment>Reviews</comment>
+    <lastModified>2020-05-04T02:38:19</lastModified>
+  </data>
+  <data name="AverageRating">
+    <value>Puntuación media</value>
+    <comment>Average Rating</comment>
+    <lastModified>2020-05-04T02:38:19</lastModified>
+  </data>
+  <data name="Rating">
+    <value>Clasificación</value>
+    <comment>Rating</comment>
+    <lastModified>2020-05-04T02:38:19</lastModified>
+  </data>
+  <data name="YourName">
+    <value>Tu nombre</value>
+    <comment>Your name</comment>
+    <lastModified>2020-05-04T02:38:19</lastModified>
+  </data>
+  <data name="EmailOptional">
+    <value>Email (opcional)</value>
+    <comment>Email (optional)</comment>
+    <lastModified>2020-05-04T02:43:37</lastModified>
+  </data>
+  <data name="Submit">
+    <value>Enviar</value>
+    <comment>Submit</comment>
+    <lastModified>2020-05-04T02:38:19</lastModified>
+  </data>
+  <data name="ShowAllResults">
+    <value>Mostrar todos los resultados</value>
+    <comment>Show all results</comment>
+    <lastModified>2020-05-04T02:38:19</lastModified>
+  </data>
+  <data name="ClearFilter">
+    <value>Filtro claro</value>
+    <comment>Clear Filter</comment>
+    <lastModified>2020-05-04T02:38:19</lastModified>
+  </data>
+  <data name="FilterProducts">
+    <value>Filtrar productos</value>
+    <comment>Filter Products</comment>
+    <lastModified>2020-05-04T02:38:19</lastModified>
+  </data>
+  <data name="OrderConfirmation">
+    <value>Se ha enviado un correo electrónico de confirmación del pedido a su dirección de correo electrónico.</value>
+    <comment>Order Confiramtion Message</comment>
+    <lastModified>2020-05-04T02:38:19</lastModified>
+  </data>
+  <data name="Items">
+    <value>Artículos</value>
+    <comment>Items</comment>
+    <lastModified>2020-05-04T02:38:19</lastModified>
+  </data>
+  <data name="ViewShoppingCart">
+    <value>Ver carro de compras</value>
+    <comment></comment>
+    <lastModified>2020-05-04T03:11:16</lastModified>
+  </data>
+  <data name="Checkout">
+    <value>Revisa</value>
+    <comment></comment>
+    <lastModified>2020-05-04T03:11:43</lastModified>
+  </data>
+  <data name="PriceAsc">
+    <value>Precios de barato a caro</value>
+    <comment></comment>
+    <lastModified>2020-05-04T09:46:54</lastModified>
+  </data>
+  <data name="NameAsc">
+    <value>Nombre (A - Z)</value>
+    <comment></comment>
+    <lastModified>2020-05-04T09:49:29</lastModified>
+  </data>
+  <data name="PriceDesc">
+    <value>Precio de mayor a menor</value>
+    <comment></comment>
+    <lastModified>2020-05-04T09:49:45</lastModified>
+  </data>
+  <data name="NameDesc">
+    <value>Nombre (Z - A)</value>
+    <comment></comment>
+    <lastModified>2020-05-04T09:49:57</lastModified>
+  </data>
+  <data name="DateDesc">
+    <value>Fecha de creación</value>
+    <comment></comment>
+    <lastModified>2020-05-04T09:50:13</lastModified>
+  </data>
+  <data name="RatingDesc">
+    <value>Clasificacion</value>
+    <comment></comment>
+    <lastModified>2020-05-04T09:50:28</lastModified>
+  </data>
+</root>

@@ -973,6 +973,7 @@
     <Compile Include="Mvc\Models\CustomNavigationModel.cs" />
     <Compile Include="Mvc\Models\CustomNodeViewModel.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Search\UCommerceSearchService.cs" />
     <Compile Include="Tasks\FeatherActionInvokerCustom.cs" />
   </ItemGroup>
   <ItemGroup>
