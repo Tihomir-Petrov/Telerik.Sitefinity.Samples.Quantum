@@ -1149,6 +1149,7 @@
     <Content Include="App_Data\Sitefinity\WebsiteTemplates\Quantum\App_Themes\Quantum\Styles\_nav.widget.css" />
     <Content Include="App_Data\Sitefinity\WebsiteTemplates\Quantum\App_Themes\Quantum\_styles.min.css" />
     <Content Include="App_Data\Sitefinity\WebsiteTemplates\Widgets\DashboardNotificationsWidget.ascx" />
+    <EmbeddedResource Include="assets\dist\css\uc-quantum.css" />
     <Content Include="Default.aspx" />
     <Content Include="Global.asax" />
     <Content Include="Mvc\Controllers\readme.txt" />

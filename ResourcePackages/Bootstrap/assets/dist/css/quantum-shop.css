@@ -273,7 +273,7 @@ input[type="submit"]
 sfcartSummaryExpandableWrp .sflnkToggleCartWrp .sflnkToggleCartWrpIn a.sflnkToggleCart .sflnkToggleCartLbl{display:block}
 .sfcartSummaryExpandableWrp .sflnkToggleCartWrp .sflnkToggleCartWrpIn a.sflnkToggleCart .sfcartSummaryItemsCount,.sfcartSummaryExpandableWrp .sflnkToggleCartWrp .sflnkToggleCartWrpIn a.sflnkToggleCart .sfcartSummaryNoItems{display:block;font-size:12px;font-weight:400!important;color:#888}
 .sfcartSummaryExpandableWrp .sflnkToggleCartWrp:hover{opacity:.7}
-.sfcartSummaryExpandableWrp .sfcartSummaryDetailsWrp{position:absolute;width:280px;right:0;top:55px;background:#fff;z-index:3;padding:30px;border:1px solid #eee;box-shadow:0 7px 20px rgba(0,0,0,.3)}
+.sfcartSummaryExpandableWrp .sfcartSummaryDetailsWrp{position:absolute;width:290px;right:0;top:55px;background:#fff;z-index:3;padding:30px;border:1px solid #eee;box-shadow:0 7px 20px rgba(0,0,0,.3)}
 .sfcartSummaryExpandableWrp .sfcartSummaryDetailsWrp .sfminiShoppingCart{width:100%}
 .sfcartSummaryExpandableWrp .sfcartSummaryDetailsWrp .sfminiShoppingCart td{border-bottom:1px solid #eee}
 .sfcartSummaryExpandableWrp .sfcartSummaryDetailsWrp .sfminiShoppingCart .sfItmPriceCol{text-align:right;line-height:16px}

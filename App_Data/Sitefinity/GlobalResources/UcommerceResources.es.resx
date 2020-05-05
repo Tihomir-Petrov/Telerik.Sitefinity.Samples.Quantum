@@ -163,9 +163,9 @@
     <lastModified>2020-05-04T02:41:36</lastModified>
   </data>
   <data name="AddToCart">
-    <value>Anadir al carrito</value>
+    <value>Anadir</value>
     <comment>Add To Cart</comment>
-    <lastModified>2020-05-04T02:41:44</lastModified>
+    <lastModified>2020-05-05T05:00:36</lastModified>
   </data>
   <data name="Products">
     <value>productos</value>
@@ -556,5 +556,30 @@
     <value>Clasificacion</value>
     <comment></comment>
     <lastModified>2020-05-04T09:50:28</lastModified>
+  </data>
+  <data name="SortBy">
+    <value>Ordenar por</value>
+    <comment></comment>
+    <lastModified>2020-05-05T13:57:53</lastModified>
+  </data>
+  <data name="ProductsByCategory">
+    <value>Productos por categoría</value>
+    <comment></comment>
+    <lastModified>2020-05-05T13:58:36</lastModified>
+  </data>
+  <data name="ClearCategory">
+    <value>Borrar categoría</value>
+    <comment></comment>
+    <lastModified>2020-05-05T13:59:25</lastModified>
+  </data>
+  <data name="NoProductsMessage">
+    <value>No hay productos.</value>
+    <comment></comment>
+    <lastModified>2020-05-05T14:00:05</lastModified>
+  </data>
+  <data name="NoProductsMessageLong">
+    <value>No hay productos en su cesta.</value>
+    <comment></comment>
+    <lastModified>2020-05-05T14:00:19</lastModified>
   </data>
 </root>
