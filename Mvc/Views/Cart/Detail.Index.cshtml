@@ -22,7 +22,7 @@
     string currentPageUrl = UrlPath.ResolveUrl(pageNodeUrl, true, true);
 }
 
-<div data-component="cart" class="cart-table" id="shopping-cart">
+<div data-component="cart" class="cart-table" id="shopping-cart" v-cloak>
     <script type="application/json" purl="true">
         { "purl" : @Html.Raw(JsonConvert.SerializeObject(currentPageUrl)) }
     </script>

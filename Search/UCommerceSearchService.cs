@@ -22,6 +22,8 @@ namespace SitefinityWebApp.Search
 {
     public class UCommerceSearchService : LuceneSearchService
     {
+        private static string productDetailsPageId = "6958675d-c257-4e46-a868-676411bee5e2";
+
         public override void CreateIndex(string name, IEnumerable<IFieldDefinition> fieldDefinitions)
         {
             base.CreateIndex(name, fieldDefinitions);
@@ -35,23 +37,15 @@ namespace SitefinityWebApp.Search
             var products = UCommerce.EntitiesV2.Product.All().Where(p => p.DisplayOnSite == true && p.ProductDefinition.Deleted == false).ToList();
 
             var currentUiCulture = Thread.CurrentThread.CurrentUICulture;
-
-            try
+            
+            foreach (var lang in SystemManager.CurrentContext.AppSettings.AllLanguages)
             {
-                foreach (var lang in SystemManager.CurrentContext.AppSettings.AllLanguages)
+                string baseUrl = GetUrlByPageNodeIdAlternative(Guid.Parse(productDetailsPageId), lang.Value, true);
+
+                foreach (var p in products)
                 {
-                    //Thread.CurrentThread.CurrentUICulture = lang.Value;
-                    string baseUrl = GetUrlByPageNodeIdAlternative(Guid.Parse("6958675d-c257-4e46-a868-676411bee5e2"), lang.Value, true);
-
-                    foreach (var p in products)
-                    {
-                        productDocs.Add(this.IndexProduct(p, lang.Value, baseUrl));
-                    }
+                    productDocs.Add(this.IndexProduct(p, lang.Value, baseUrl));
                 }
-            }
-            finally
-            {
-                //Thread.CurrentThread.CurrentUICulture = currentUiCulture;
             }
 
             this.UpdateIndex(name, productDocs);

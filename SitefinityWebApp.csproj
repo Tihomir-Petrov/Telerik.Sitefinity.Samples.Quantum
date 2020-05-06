@@ -1184,6 +1184,7 @@
     <Content Include="ResourcePackages\Bootstrap\assets\dist\fonts\bootstrap\glyphicons-halflings-regular.svg" />
     <Content Include="ResourcePackages\Bootstrap\assets\dist\fonts\sf-icon-font.svg" />
     <Content Include="ResourcePackages\Bootstrap\assets\dist\images\Arrow.png" />
+    <Content Include="ResourcePackages\Bootstrap\assets\dist\images\arrow_down.png" />
     <Content Include="ResourcePackages\Bootstrap\assets\dist\images\Development_ContactUs.jpg" />
     <Content Include="ResourcePackages\Bootstrap\assets\dist\images\Quantum_flag.png" />
     <Content Include="ResourcePackages\Bootstrap\assets\dist\images\Quantum_Logo_white.png" />
